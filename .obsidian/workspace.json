@@ -128,13 +128,21 @@
                 "file": "source/_posts/demo.md"
               }
             }
+          },
+          {
+            "id": "b1a7ea5d187af765",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +156,8 @@
   },
   "active": "dd9628a34da44faf",
   "lastOpenFiles": [
+    "Pasted image 20230601100043.png",
+    "Pasted image 20230601100038.png",
     "source/_posts/hello-world.md",
     "source/_posts/demo.md",
     "public/img/default.png",
