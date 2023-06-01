@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,6 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -166,6 +164,8 @@
   },
   "active": "312f624577c3f2b4",
   "lastOpenFiles": [
+    "source/_posts/机器人🤖返利.md",
+    "source/_posts/🐶东抓网页ck.md",
     "source/_posts/hello-world.md",
     "source/_posts/Stream抓京东wskey.md",
     "source/_posts/京东远程抓包wskey.md",
@@ -190,9 +190,7 @@
     "public/archives/2023/page/2",
     "source/images/Pasted image 20230601171014.png",
     "source/_posts/口令wskey登陆.md",
-    "source/_posts/机器人🤖返利.md",
     "source/images/22C3C8E1-4816-4FFD-A968-AD6DBBE3085B_aoAAqNxw6Y.png",
-    "source/_posts/🐶东抓网页ck.md",
     "source/_posts/申论作文/分论点.md",
     "images/2501644627861_.pic_YrngO4W7ZU.jpg.md",
     "source/_posts/申论作文/申论结尾.md",

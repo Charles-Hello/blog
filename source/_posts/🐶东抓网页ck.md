@@ -5,7 +5,7 @@ tags: []
 index_img: 
 ---
 
-# 教程1：安卓和ios兼用
+# 教程1：安卓和ios兼用🎩
 
   
 
@@ -15,15 +15,11 @@ index_img:
 
 抓到了，请发送给机器人添加就好了～
 
-  
+ 
 
-## 教程2：ios的教程
-
-  
+## 教程2：ios的教程 ✨
 
 去下载scriptable
-
-  
 
 ![](../images/2511644628011_.pic_gqTOqp2ofV.jpg)
 
