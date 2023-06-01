@@ -1,9 +1,10 @@
 ---
-title: 2023-06-01
+title: 口令wskey登陆
 date: 2023-06-01 15:38:52
 tags: []
 index_img: /images/Pasted%20image%2020230601153924.png
 ---
+
 发送 京东扫码 四个字给机器人
 ![](../images/Pasted%20image%2020230601153924.png)拿到口令
 
