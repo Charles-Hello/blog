@@ -1,0 +1,12 @@
+{
+  "always_run_in_app" : false,
+  "icon" : {
+    "color" : "blue",
+    "glyph" : "frown-open"
+  },
+  "name" : "京东获取网页ck(有效期一个月)",
+  "script" : "\nconst webView = new WebView();\nconst url = 'https:\/\/mcr.jd.com\/credit_home\/pages\/index.html?btPageType=BT&channelName=024';\nawait webView['loadURL'](url);\nawait webView['present'](true);\nconst req = new Request('https:\/\/ms.jr.jd.com\/gw\/generic\/bt\/h5\/m\/firstScreenNew');\nreq['method'] = 'POST';\nreq['body'] = 'reqData={\"clientType\":\"ios\",\"clientVersion\":\"13.2.3\",\"deviceId\":\"\",\"environment\":\"3\"}';\nawait req['loadJSON']();\nconst cookies = req['response']['cookies'];\nconst account = {};\nconst cookie = [];\ncookies['forEach']((item) => {\n\tconst value = `${item['name']} =${item['value']}`;\n\tif (item['name'] === 'pt_key') cookie['push'](value);\n\tif (item['name'] === 'pt_pin') {\n\t\tcookie['push'](value+';')\n\t}\n});\naccount['cookie'] = cookie['join'](';');\nconsole['log'](account['cookie']);\nlet ck=account[\"cookie\"].replace(\" \", \"\")\n  console.log(ck)\nlet ck2=ck.replace(\" \", \"\")\n  console.log(ck2)\nPasteboard['copy'](ck2);\nScript['complete']()\nif(account[\"cookie\"]){\n  const ms=new Alert();\n  ms.title=\"获取成功\";\n  ms.message=\"ck已复制。\\n\"+ck2+\"\\n请发送给机器人🤖\";\n  await ms.present(true)\n}",
+  "share_sheet_inputs" : [
+
+  ]
+}
