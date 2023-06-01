@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "8d140e78d189ccc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a02d934a10fc231a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd9628a34da44faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/demo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b302d01ec561e590",
+    "type": "split",
+    "children": [
+      {
+        "id": "e56bdb9cc2aaf934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5860bd1de8b354f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e92688df67023cce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce696754e54c93dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a6fecbbb8c22116",
+    "type": "split",
+    "children": [
+      {
+        "id": "395c9d35992a29f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27bf150cee4098a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/demo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d1a36ec60aab63a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/demo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b49b4834792d489",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3e84570f79a184d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/demo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dd9628a34da44faf",
+  "lastOpenFiles": [
+    "public/img/default.png",
+    "public/2023/06/dc86a3739728.html",
+    "public/js/utils.js",
+    "public/js/plugins.js",
+    "public/js/local-search.js",
+    "public/js/img-lazyload.js",
+    "public/js/leancloud.js",
+    "public/js/color-schema.js",
+    "public/js/events.js",
+    "public/js/boot.js",
+    "public/js",
+    "public/img/avatar.png",
+    "public/img/police_beian.png",
+    "public/img/loading.gif",
+    "public/img/fluid.png",
+    "source/_posts/demo.md",
+    "source/_obsidian/Post Template.md"
+  ]
+}
