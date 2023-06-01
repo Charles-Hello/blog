@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "057c7b103ff25adb",
+            "id": "223585717624e889",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/申论作文/分论点.md",
-                "mode": "source",
-                "source": false
+                "file": "source/images/Pasted image 20230601150123.png"
               }
             }
           }
@@ -77,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 385.5
   },
   "right": {
     "id": "1a6fecbbb8c22116",
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/申论作文/分论点.md",
+                "file": "source/images/Pasted image 20230601150123.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/申论作文/分论点.md",
+                "file": "source/images/Pasted image 20230601150123.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/申论作文/分论点.md"
+                "file": "source/images/Pasted image 20230601150123.png"
               }
             }
           },
@@ -163,41 +161,46 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "057c7b103ff25adb",
+  "active": "223585717624e889",
   "lastOpenFiles": [
-    "source/images/Pasted image 20230601145522.png",
-    "source/申论作文/申论框架.md",
-    "source/申论作文/申论标题.md",
-    "source/申论作文/申论结尾.md",
-    "source/images/Pasted image 20230601145458.png",
+    "source/images/Pasted image 20230601145602.png",
+    "source/images/Pasted image 20230601150222.png",
+    "source/images/Pasted image 20230601150123.png",
     "source/images/Pasted image 20230601145453.png",
-    "source/images/Pasted image 20230601145448.png",
     "source/images/Pasted image 20230601145421.png",
     "source/images/Pasted image 20230601145408.png",
-    "source/_posts/Pasted image 20230531204950.png.md",
-    "source/申论作文/分论点.md",
-    "source/images/Pasted image 20230601145321.png",
     "source/images/Pasted image 20230601145315.png",
     "source/images/Pasted image 20230601145308.png",
+    "source/images/Pasted image 20230601145321.png",
+    "source/images/Pasted image 20230601145458.png",
+    "source/images/Pasted image 20230601150258.png",
+    "source/images/未命名.md",
     "source/_posts/hello-world.md",
+    "source/_posts/申论作文/分论点.md",
+    "source/_posts/申论作文/申论标题.md",
+    "source/_posts/申论作文/申论结尾.md",
+    "source/_posts/申论作文/申论框架.md",
+    "source/_posts/申论作文",
+    "source/_posts/Pasted image 20230601100043.png.md",
+    "source/申论作文/分论点.md",
+    "source/申论作文/申论结尾.md",
+    "source/申论作文/申论框架.md",
+    "source/申论作文/申论标题.md",
+    "source/about/index.md",
+    "public/images",
+    "public/申论作文/申论结尾.html",
+    "public/申论作文/分论点.html",
+    "public/申论作文/申论标题.html",
+    "public/申论作文/申论框架.html",
+    "public/申论作文",
+    "source/_posts/Pasted image 20230531204950.png.md",
     "source/申论作文",
     "source/_posts/申论作文/申论作文.md",
     "source/_obsidian/Post Template.md",
-    "source/images/Pasted image 20230601135402.png",
-    "source/images/Pasted image 20230601135437.png",
     "source/_posts/demo.md",
     "source/_posts/申论作文/images",
     "source/_posts/申论作文/imagses",
-    "source/images/未命名.md",
-    "source/_posts/Pasted image 20230601100043.png.md",
-    "source/_posts/申论作文/source/images",
-    "source/_posts/申论作文/source",
-    "source/_posts/申论作文/images/demo",
     "images/Pasted.md",
-    "images",
-    "Pasted.md",
-    "source/images",
-    "source/_posts/申论作文",
-    "public/2023/06/dc86a3739728.html"
+    "Pasted.md"
   ]
 }
