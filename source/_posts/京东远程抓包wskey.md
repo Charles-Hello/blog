@@ -27,7 +27,7 @@ index_img: /images/Pasted%20image%2020230601155133.png
 
 ## 安装android的ca证书👇🏻
 
-[cer-3.crt](file/cer-3_io_Mz9Xd2g.crt)
+[cer-3.crt](../file/cer-3_io_Mz9Xd2g.crt)
 
 ```go
 ❏ Android/鸿蒙 系统:
@@ -63,7 +63,7 @@ index_img: /images/Pasted%20image%2020230601155133.png
 
 ## 安装鸿蒙的ca证书👇🏻
 
-[cer-3.crt](file/cer-3_io_Mz9Xd2g.crt)
+[cer-3.crt](../file/cer-3_io_Mz9Xd2g.crt)
 
 ```go
 ❏ 华为鸿蒙 系统:
@@ -100,7 +100,7 @@ index_img: /images/Pasted%20image%2020230601155133.png
 
 ## 安装iphone的ca证书
 
-[pem-1.crt](file/pem-1_uJkKkBVJ82.crt)
+[pem-1.crt](../file/pem-1_uJkKkBVJ82.crt)
 
 ###
 

@@ -4,10 +4,12 @@ date: 2023-06-01 16:35:14
 tags: []
 index_img: 
 ---
+
 # 教程1：安卓和ios兼用
 
+  
 
-![](image/2501644627861_.pic_YrngO4W7ZU.jpg)
+![](../images/2501644627861_.pic_YrngO4W7ZU.jpg)
 
   
 
@@ -23,15 +25,15 @@ index_img:
 
   
 
-![](image/2511644628011_.pic_gqTOqp2ofV.jpg)
+![](../images/2511644628011_.pic_gqTOqp2ofV.jpg)
 
   
 
-## 在喵喵喵🐱群里面搜索
+## 下载以下插件
 
-  
+[京东获取网页ck.scriptable](../file/京东获取网页ck(有效期一个月).scriptable)
 
-![](image/2521644628079_.pic_QmItWVQy0c.jpg)
+![](../images/2521644628079_.pic_QmItWVQy0c.jpg)
 
   
 
