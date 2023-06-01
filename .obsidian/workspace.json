@@ -163,8 +163,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "312f624577c3f2b4",
+  "active": "b1a7ea5d187af765",
   "lastOpenFiles": [
+    "_config.fluid_beautiful.yml",
+    "_config.fluid copy.yml",
     "source/_posts/申论作文/申论框架.md",
     "source/_posts/申论作文/申论标题.md",
     "source/_posts/机器人🤖返利.md",
@@ -190,7 +192,6 @@
     "css/cloudedGlass.css",
     "css",
     "source/js/backgroundize.js",
-    "scripts/injector.js",
     "source/images/Pasted image 20230601174052.png",
     "public/images/22C3C8E1-4816-4FFD-A968-AD6DBBE3085B_aoAAqNxw6Y.png",
     "public/images/image_14pVVs5t0z.png",
