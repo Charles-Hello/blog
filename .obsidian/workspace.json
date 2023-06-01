@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "24fd167fcd303b3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -151,15 +160,16 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "dd9628a34da44faf",
   "lastOpenFiles": [
-    "Pasted image 20230601100043.png",
-    "Pasted image 20230601100038.png",
     "source/_posts/hello-world.md",
     "source/_posts/demo.md",
+    "Pasted image 20230601100043.png",
+    "Pasted image 20230601100038.png",
     "public/img/default.png",
     "public/2023/06/dc86a3739728.html",
     "public/js/utils.js",
