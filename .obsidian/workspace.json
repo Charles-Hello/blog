@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/demo.md",
+                "file": "source/_posts/hello-world.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/demo.md",
+                "file": "source/_posts/hello-world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/demo.md",
+                "file": "source/_posts/hello-world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/demo.md"
+                "file": "source/_posts/hello-world.md"
               }
             }
           },
@@ -164,10 +163,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "dd9628a34da44faf",
+  "active": "f5860bd1de8b354f",
   "lastOpenFiles": [
-    "source/_posts/hello-world.md",
     "source/_posts/demo.md",
+    "source/_posts/hello-world.md",
     "Pasted image 20230601100043.png",
     "Pasted image 20230601100038.png",
     "public/img/default.png",
