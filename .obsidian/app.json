@@ -3,5 +3,11 @@
     "node_modules/",
     "themes/",
     "scaffolds/"
-  ]
+  ],
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "source/images",
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "source/_posts",
+  "promptDelete": false
 }

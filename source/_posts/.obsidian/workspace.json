@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "8d140e78d189ccc3",
+    "id": "088f7a70839346ec",
     "type": "split",
     "children": [
       {
-        "id": "a02d934a10fc231a",
+        "id": "716505db68921bd3",
         "type": "tabs",
         "children": [
           {
-            "id": "057c7b103ff25adb",
+            "id": "79b5856fe4b14d4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/申论作文/分论点.md",
+                "file": "申论作文/demo.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b302d01ec561e590",
+    "id": "18783d04dea6a260",
     "type": "split",
     "children": [
       {
-        "id": "e56bdb9cc2aaf934",
+        "id": "a5e16940e457c20f",
         "type": "tabs",
         "children": [
           {
-            "id": "f5860bd1de8b354f",
+            "id": "bea7264d5680d090",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e92688df67023cce",
+            "id": "d9fe4e6019f2b32f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,18 +58,10 @@
             }
           },
           {
-            "id": "ce696754e54c93dc",
+            "id": "ab290332a5304701",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "24fd167fcd303b3c",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
               "state": {}
             }
           }
@@ -77,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "1a6fecbbb8c22116",
+    "id": "c4f7efd8813f1811",
     "type": "split",
     "children": [
       {
-        "id": "395c9d35992a29f9",
+        "id": "738740e37b5d6b38",
         "type": "tabs",
         "children": [
           {
-            "id": "27bf150cee4098a5",
+            "id": "ccac662cfbf23cad",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/申论作文/分论点.md",
+                "file": "申论作文/demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +97,19 @@
             }
           },
           {
-            "id": "9d1a36ec60aab63a",
+            "id": "8a73d1ae4a927591",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/申论作文/分论点.md",
+                "file": "申论作文/demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5b49b4834792d489",
+            "id": "10e4ab576727c2b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,29 +120,21 @@
             }
           },
           {
-            "id": "f3e84570f79a184d",
+            "id": "012a7acf3994deff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/申论作文/分论点.md"
+                "file": "申论作文/demo.md"
               }
             }
-          },
-          {
-            "id": "b1a7ea5d187af765",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,45 +143,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "057c7b103ff25adb",
+  "active": "79b5856fe4b14d4c",
   "lastOpenFiles": [
-    "source/images/Pasted image 20230601145522.png",
-    "source/申论作文/申论框架.md",
-    "source/申论作文/申论标题.md",
-    "source/申论作文/申论结尾.md",
-    "source/images/Pasted image 20230601145458.png",
-    "source/images/Pasted image 20230601145453.png",
-    "source/images/Pasted image 20230601145448.png",
-    "source/images/Pasted image 20230601145421.png",
-    "source/images/Pasted image 20230601145408.png",
-    "source/_posts/Pasted image 20230531204950.png.md",
-    "source/申论作文/分论点.md",
-    "source/images/Pasted image 20230601145321.png",
-    "source/images/Pasted image 20230601145315.png",
-    "source/images/Pasted image 20230601145308.png",
-    "source/_posts/hello-world.md",
-    "source/申论作文",
-    "source/_posts/申论作文/申论作文.md",
-    "source/_obsidian/Post Template.md",
-    "source/images/Pasted image 20230601135402.png",
-    "source/images/Pasted image 20230601135437.png",
-    "source/_posts/demo.md",
-    "source/_posts/申论作文/images",
-    "source/_posts/申论作文/imagses",
-    "source/images/未命名.md",
-    "source/_posts/Pasted image 20230601100043.png.md",
-    "source/_posts/申论作文/source/images",
-    "source/_posts/申论作文/source",
-    "source/_posts/申论作文/images/demo",
-    "images/Pasted.md",
-    "images",
-    "Pasted.md",
-    "source/images",
-    "source/_posts/申论作文",
-    "public/2023/06/dc86a3739728.html"
+    "Pasted image 20230601112812.png",
+    "demo.md",
+    "hello-world.md",
+    "Pasted image 20230601100043.png.md"
   ]
 }

@@ -1,3 +1,11 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-icons-files-and-folders"
+  ],
+  "nativeMenus": true,
+  "baseFontSize": 19,
+  "translucency": true
 }
