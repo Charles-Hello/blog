@@ -2,7 +2,7 @@
 title: 🐶东抓网页ck
 date: 2023-06-01 16:35:14
 tags: []
-index_img: 
+index_img: ../images/Pasted%20image%2020230601174052.png
 ---
 
 # 教程1：安卓和ios兼用🎩
