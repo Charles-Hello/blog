@@ -11,9 +11,11 @@
             "id": "223585717624e889",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/images/Pasted image 20230601150123.png"
+                "file": "source/_posts/申论作文/申论框架.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 200
   },
   "right": {
     "id": "1a6fecbbb8c22116",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/images/Pasted image 20230601150123.png",
+                "file": "source/_posts/申论作文/申论框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/images/Pasted image 20230601150123.png",
+                "file": "source/_posts/申论作文/申论框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/images/Pasted image 20230601150123.png"
+                "file": "source/_posts/申论作文/申论框架.md"
               }
             }
           },
@@ -163,22 +165,27 @@
   },
   "active": "223585717624e889",
   "lastOpenFiles": [
-    "source/images/Pasted image 20230601145602.png",
-    "source/images/Pasted image 20230601150222.png",
+    "source/_posts/申论作文/申论结尾.md",
+    "source/_posts/申论作文/申论标题.md",
+    "source/_posts/申论作文/分论点.md",
     "source/images/Pasted image 20230601150123.png",
-    "source/images/Pasted image 20230601145453.png",
-    "source/images/Pasted image 20230601145421.png",
-    "source/images/Pasted image 20230601145408.png",
-    "source/images/Pasted image 20230601145315.png",
-    "source/images/Pasted image 20230601145308.png",
-    "source/images/Pasted image 20230601145321.png",
-    "source/images/Pasted image 20230601145458.png",
-    "source/images/Pasted image 20230601150258.png",
+    "public/images/Pasted image 20230601150247.png",
+    "public/images/Pasted image 20230601145549.png",
+    "public/images/Pasted image 20230601150123.png",
+    "public/images/Pasted image 20230601145602.png",
+    "public/images/Pasted image 20230601150317.png",
+    "public/images/Pasted image 20230601150305.png",
+    "public/images/Pasted image 20230601150222.png",
+    "public/images/Pasted image 20230601150258.png",
+    "public/images/Pasted image 20230601150233.png",
+    "public/2023/06/7853f9a3302e.html",
+    "public/2023/06/12a591f7a0cb.html",
+    "public/2023/06/4e86269a105f.html",
+    "public/2023/06/0c6bf7285521.html",
+    "public/categories/申论作文/index.html",
+    "public/categories/申论作文",
     "source/images/未命名.md",
     "source/_posts/hello-world.md",
-    "source/_posts/申论作文/分论点.md",
-    "source/_posts/申论作文/申论标题.md",
-    "source/_posts/申论作文/申论结尾.md",
     "source/_posts/申论作文/申论框架.md",
     "source/_posts/申论作文",
     "source/_posts/Pasted image 20230601100043.png.md",
@@ -190,16 +197,10 @@
     "public/images",
     "public/申论作文/申论结尾.html",
     "public/申论作文/分论点.html",
-    "public/申论作文/申论标题.html",
-    "public/申论作文/申论框架.html",
-    "public/申论作文",
     "source/_posts/Pasted image 20230531204950.png.md",
-    "source/申论作文",
     "source/_posts/申论作文/申论作文.md",
     "source/_obsidian/Post Template.md",
     "source/_posts/demo.md",
-    "source/_posts/申论作文/images",
-    "source/_posts/申论作文/imagses",
     "images/Pasted.md",
     "Pasted.md"
   ]
