@@ -19,11 +19,11 @@ class MarkdownManipulator:
             # 如果没有符合条件的图片，则使用默认值
             new_index_img = 'default.png'
             
-        title = f'---\n \
-title: \n \
-date: {formatted_datetime}\n \
-tags: []\n \
-index_img: ../images/{new_index_img}\n \
+        title = f'---\n\
+title: \n\
+date: {formatted_datetime}\n\
+tags: []\n\
+index_img: ../banner_images/{new_index_img}\n\
 ---\n'
         return title
         

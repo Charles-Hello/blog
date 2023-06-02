@@ -8,3 +8,5 @@ public/
 _multiconfig.yml
 .trash/
 .obsidian/
+__pycache__/
+*.pyc

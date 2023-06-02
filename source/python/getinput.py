@@ -1,13 +1,11 @@
 import os
 from mdbanner import MarkdownManipulator
-from config import current_directory
-_posts_path = current_directory +"\\_posts"
-_photo_path = current_directory+'\\images' 
+from config import posts_path, photo_path
 
 
 filename = '未命名.md'
 markdown_manipulator = MarkdownManipulator(filename)
-content_to_add = markdown_manipulator.add_title(_photo_path)
+content_to_add = markdown_manipulator.add_title(photo_path)
 
 
 
@@ -25,5 +23,5 @@ def traverse_files(directory):
             traverse_files(file_path)
 
 
-traverse_files(current_directory)
+traverse_files(posts_path)
 

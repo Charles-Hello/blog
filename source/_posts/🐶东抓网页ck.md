@@ -7,9 +7,8 @@ index_img: ../images/Pasted%20image%2020230601174052.png
 
 # 教程1：安卓和ios兼用🎩
 
-  
 
-![](../images/2501644627861_.pic_YrngO4W7ZU.jpg)
+![](../images/Pasted%20image%2020230602134559.png)
 
   
 
@@ -21,15 +20,13 @@ index_img: ../images/Pasted%20image%2020230601174052.png
 
 去下载scriptable
 
-![](../images/2511644628011_.pic_gqTOqp2ofV.jpg)
+![](../images/Pasted%20image%2020230602134501.png)
 
   
 
 ## 下载以下插件
 
 [京东获取网页ck.scriptable](../file/京东获取网页ck(有效期一个月).scriptable)
-
-![](../images/2521644628079_.pic_QmItWVQy0c.jpg)
 
   
 
