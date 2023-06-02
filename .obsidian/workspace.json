@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "source/_posts/机器人🤖返利.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,11 +159,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "26f4f60446c705e1",
   "lastOpenFiles": [
+    "source/python/未命名.md",
+    "source/_posts/机器人🤖返利.md",
+    "source/_posts/print(2).md",
+    "source/python/getinput.py",
+    "source/python",
     "source/_posts/申论作文/申论标题.md",
     "source/_posts/申论作文/申论框架.md",
     "source/_posts/申论作文/申论结尾.md",
@@ -174,7 +179,6 @@
     "source/_posts/Stream抓京东wskey.md",
     "source/_posts/口令wskey登陆.md",
     "source/_posts/申论作文/分论点.md",
-    "source/_posts/机器人🤖返利.md",
     "source/_posts/京东远程抓包wskey.md",
     "_config.fluid_beautiful.yml",
     "_config.fluid copy.yml",
@@ -190,8 +194,6 @@
     "themes/fluid/source/img/default1.png",
     "themes/fluid/source/img/default.png.jpg",
     "themes/fluid/source/img/202204031054091.jpg",
-    "css/cloudedGlass.css",
-    "css",
     "source/images/Pasted image 20230601174052.png",
     "public/images/22C3C8E1-4816-4FFD-A968-AD6DBBE3085B_aoAAqNxw6Y.png",
     "public/images/image_14pVVs5t0z.png",
@@ -209,7 +211,6 @@
     "source/_posts/Pasted image 20230531204950.png.md",
     "source/_posts/申论作文/申论作文.md",
     "source/_obsidian/Post Template.md",
-    "source/_posts/demo.md",
-    "images/Pasted.md"
+    "source/_posts/demo.md"
   ]
 }
