@@ -5,8 +5,9 @@ tags: []
 index_img: /images/Pasted%20image%2020230601153924.png
 ---
 
-发送 京东扫码 四个字给机器人
-![](../images/Pasted%20image%2020230601153924.png)拿到口令
+发送 京东口令 四个字给机器人
+![](../images/Pasted%20image%2020230602221445.png)
+拿到口令
 
 打开京东app，选择立即查看，点击登录即可
 
