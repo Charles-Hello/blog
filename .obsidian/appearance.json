@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Atom",
-  "theme": "obsidian",
+  "cssTheme": "Yin and Yang",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "custom-icons-files-and-folders"
   ],
-  "nativeMenus": true,
+  "nativeMenus": false,
   "baseFontSize": 19,
-  "translucency": true
+  "translucency": false
 }
