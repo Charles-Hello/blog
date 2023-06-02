@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/机器人🤖返利.md",
-                "mode": "preview",
-                "source": true
+                "file": "source/python/未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/机器人🤖返利.md",
+                "file": "source/python/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/机器人🤖返利.md",
+                "file": "source/python/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/机器人🤖返利.md"
+                "file": "source/python/未命名.md"
               }
             }
           },
@@ -166,7 +166,12 @@
   "active": "26f4f60446c705e1",
   "lastOpenFiles": [
     "source/python/未命名.md",
+    "source/python/未命名 1.md",
+    "source/_posts/未命名.md",
+    "source/python/未命名帮.md",
     "source/_posts/机器人🤖返利.md",
+    "public/python/getinput.py",
+    "public/python",
     "source/_posts/print(2).md",
     "source/python/getinput.py",
     "source/python",
@@ -186,10 +191,8 @@
     "public/js/scrollAnimation.js",
     "source/css/scrollAnimation.css",
     "source/css",
-    "source/js/scrollAnimation.js",
     "public/img/default1.png",
     "public/images/Pasted image 20230601174052.png",
-    "public/js/backgroundize.js",
     "themes/fluid/source/img/default.png",
     "themes/fluid/source/img/default1.png",
     "themes/fluid/source/img/default.png.jpg",
@@ -208,9 +211,6 @@
     "source/申论作文/申论框架.md",
     "source/申论作文/申论标题.md",
     "source/about/index.md",
-    "source/_posts/Pasted image 20230531204950.png.md",
-    "source/_posts/申论作文/申论作文.md",
-    "source/_obsidian/Post Template.md",
-    "source/_posts/demo.md"
+    "source/_posts/Pasted image 20230531204950.png.md"
   ]
 }
