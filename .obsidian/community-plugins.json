@@ -4,5 +4,8 @@
   "editing-toolbar",
   "emoji-magic",
   "templater-obsidian",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "obsidian-latex-suite"
 ]
