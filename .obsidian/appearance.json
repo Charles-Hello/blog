@@ -1,7 +1,7 @@
 {
   "accentColor": "#5e5555",
   "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "custom-icons-files-and-folders"
   ],
