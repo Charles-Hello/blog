@@ -18,3 +18,14 @@ frida -U com.example.one_xposed -l jichu.js
 注意了，必须要hook到包名正确，不然找人安卓手机重启
 
 
+
+启动注入
+
+frida -U com.example.one_xposed2 -l 02java.js --no-pause（）
+我注意到在 Frida 15.2.2（可能在 15.2 中引入）中，应用程序在启动时默认不再暂停。  
+因此，您不再需要 --no-pause 参数。
+
+如果您确实想在启动时暂停应用程序，可以使用 --pause
+
+
+
