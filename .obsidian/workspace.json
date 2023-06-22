@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/安卓逆向.md",
+                "file": "source/_posts/虚拟机注意事项.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/安卓逆向.md",
+                "file": "source/_posts/虚拟机注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/安卓逆向.md",
+                "file": "source/_posts/虚拟机注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/安卓逆向.md"
+                "file": "source/_posts/虚拟机注意事项.md"
               }
             }
           },
@@ -165,9 +165,15 @@
   },
   "active": "73aa5928cacacab2",
   "lastOpenFiles": [
+    "source/images/Pasted image 20230622211057.png",
+    "source/images/Pasted image 20230622211024.png",
+    "source/images/Pasted image 20230622210935.png",
+    "source/images/Pasted image 20230622210851.png",
+    "source/images/Pasted image 20230622210826.png",
+    "source/_posts/安卓逆向.md",
+    "source/_posts/虚拟机注意事项.md",
     "public/2023/06/06648a27dac2.html",
     "source/_posts/速度.md",
-    "source/_posts/安卓逆向.md",
     "source/_posts/资料分析/算法.md",
     "source/_posts/🐶东抓网页ck.md",
     "source/_posts/Stream抓京东wskey.md",
@@ -192,16 +198,11 @@
     "source/_posts/未命名.md",
     "source/_posts/京东机器人登陆!.md",
     "source/_posts/机器人🤖返利.md",
-    "public/images/22C3C8E1-4816-4FFD-A968-AD6DBBE3085B_aoAAqNxw6Y.png",
-    "public/images/5F560978-4BA1-4FF4-8A57-E86EF5DF0859_QeRK9NEkqx.jpeg",
-    "public/images/image_14pVVs5t0z.png",
-    "public/images/1184CADF-FBB7-4547-8910-FCA91189C5CC_FdGTuMozcf.jpeg",
     "public/categories/申论作文/index.html",
     "public/categories/申论作文",
     "public/python/config.py",
     "public/xml/local-search.xml",
     "public/file/cer-3_io_Mz9Xd2g.crt",
-    "public/2023/06/446bf72252fe.html",
     "source/test/2121212112.md",
     "source/test/是萨顶顶萨达.md",
     "source/_posts/12.md",
@@ -210,7 +211,6 @@
     "source/_posts/1.md",
     "source/_posts/😺.md",
     "source/_posts/new_name.md",
-    "source/_posts/未命名/未命名.md",
     "未命名.canvas"
   ]
 }
