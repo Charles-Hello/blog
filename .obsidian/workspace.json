@@ -23,8 +23,12 @@
             "id": "e43ebe9879b6870d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/安卓逆向frida.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/安卓逆向frida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/安卓逆向frida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/安卓逆向frida.md"
+              }
             }
           },
           {
@@ -170,6 +178,8 @@
   },
   "active": "e43ebe9879b6870d",
   "lastOpenFiles": [
+    "source/_posts/口令wskey登陆.md",
+    "public/2023/06/ebe190a03a5a.html",
     "source/_posts/安卓逆向frida.md",
     "source/_posts/虚拟机注意事项.md",
     "public/images/Pasted image 20230622211057.png",
@@ -191,7 +201,6 @@
     "source/_posts/不知道写什么好呢.md",
     "source/_posts/京东远程抓包wskey.md",
     "source/_posts/申论作文/分论点.md",
-    "source/_posts/口令wskey登陆.md",
     "source/_posts/申论作文/申论标题.md",
     "source/_posts/申论作文/申论框架.md",
     "source/_posts/申论作文/申论结尾.md",
@@ -206,7 +215,6 @@
     "public/categories/申论作文/index.html",
     "public/categories/申论作文",
     "public/python/config.py",
-    "public/xml/local-search.xml",
     "source/test/2121212112.md",
     "source/test/是萨顶顶萨达.md",
     "source/_posts/12.md",
