@@ -29,3 +29,6 @@ frida -U com.example.one_xposed2 -l 02java.js --no-pause（）
 
 
 
+问题1  
+{'type': 'error', 'description': "ReferenceError: 'java' is not defined", 'stack': "ReferenceError: 'java' is not defined\n    at main (/script1.js:2)\n    at apply (native)\n    at <anonymous> (frida/runtime/core.js:51)", 'fileName': '/script1.js', 'lineNumber': 2, 'columnNumber': 1}
+在js中的java要用大写的Java来表示
