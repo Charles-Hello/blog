@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/安卓逆向frida.md",
+                "file": "source/_posts/虚拟机注意事项.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/安卓逆向frida.md",
+                "file": "source/_posts/虚拟机注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/安卓逆向frida.md",
+                "file": "source/_posts/虚拟机注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/安卓逆向frida.md"
+                "file": "source/_posts/虚拟机注意事项.md"
               }
             }
           },
@@ -178,9 +178,10 @@
   },
   "active": "e43ebe9879b6870d",
   "lastOpenFiles": [
+    "source/images/Pasted image 20230624004837.png",
+    "source/_posts/安卓逆向frida.md",
     "source/_posts/口令wskey登陆.md",
     "public/2023/06/ebe190a03a5a.html",
-    "source/_posts/安卓逆向frida.md",
     "source/_posts/虚拟机注意事项.md",
     "public/images/Pasted image 20230622211057.png",
     "public/images/Pasted image 20230622210935.png",
