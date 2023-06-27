@@ -62,6 +62,24 @@ str=androidId
 HttpUrl.queryParameter[str] result=b3d087800fbda114
 str=uuid
 HttpUrl.queryParameter[str] result=00000000-0000-0000-ffff-ffffd76d294b
-str=androidId
-HttpUrl.queryParameter[str] result=b3d087800fbda114
 
+![](../images/Pasted%20image%2020230627172431.png)
+
+组装hashMap
+
+
+
+![](../images/Pasted%20image%2020230627172636.png)
+
+拿到body
+
+
+
+JSONObject jSONObject = new JSONObject();
+    com.jd.phc.utils.b.b(d, "brian cipher type is :" + pHCCipherSuite.value());
+    for (String str2 : map.keySet()) {
+    String str3 = map.get(str2);
+    String a2 = f.a(str3.getBytes());
+    com.jd.phc.utils.b.b(d, "brian Encoded str of " + str3 + " is :" + a2);
+    jSONObject.put(str2, a2);
+    }
