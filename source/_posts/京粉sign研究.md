@@ -66,7 +66,29 @@ HttpUrl.queryParameter[str] result=00000000-0000-0000-ffff-ffffd76d294b
 ![](../images/Pasted%20image%2020230627172431.png)
 
 组装hashMap
+HashMap hashMap = new HashMap();
+                for (String str : queryParameterNames) {
+                            hashMap.put(str, httpUrl.queryParameter(str));
+}
 
+长这个样子
+{
+   "clientPageId": "jingfen_app",
+   "funName": "share",
+   "param": "{\"shareReq\":[{\"command\":1,\"notAllowAddToShareManagement\":1,\"plainUrl\":\"https://item.m.jd.com/product/100014134468.html?&utm_source=iosapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL&ad_od=share&utm_user=plusmember&gx=RnAowWFbbDfeyJEVsox3W_9mFJnWh5E&gxd=RnAokGJbYTTczcoU-dd0WcnpPCgpyeZBB3uNDDQ3NwFNe7UhyAxjDKGcA12IzWM\",\"platform\":1,\"shareType\":1,\"skuId\":100014134468,\"spuId\":0}]}",
+   "appid": "jf_app",
+   "t": "1687849057584",
+   "clientVersion": "3.12.42",
+   "build": "20220474",
+   "client": "android",
+   "d_brand": "Xiaomi",
+   "d_model": "22041211AC",
+   "osVersion": "13",
+   "screen": "2280*1080",
+   "partner": "XiaoMi",
+   "androidId": "b3d087800fbda114",
+   "uuid": "00000000-0000-0000-ffff-ffffd76d294b"
+}
 
 
 ![](../images/Pasted%20image%2020230627172636.png)
