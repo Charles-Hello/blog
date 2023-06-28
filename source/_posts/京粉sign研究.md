@@ -24,6 +24,8 @@ https://api.m.jd.com/api?functionId=unionShare&body={"clientPageId":"jingfen_app
 
 sign解密一致
 
+
+
 ![](../images/Pasted%20image%2020230628162950.png)![](../images/Pasted%20image%2020230628163013.png)
 
 
