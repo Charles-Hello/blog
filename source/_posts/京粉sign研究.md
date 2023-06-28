@@ -22,10 +22,13 @@ https://api.m.jd.com/api?functionId=unionShare&body={"clientPageId":"jingfen_app
 
 
 
+sign解密一致
 
+![](../images/Pasted%20image%2020230628162950.png)![](../images/Pasted%20image%2020230628163013.png)
 
 
 ![](../images/Pasted%20image%2020230627150729.png)
+
 
 此时此刻sign有了，还差个body的加密
 
@@ -105,3 +108,7 @@ JSONObject jSONObject = new JSONObject();
     com.jd.phc.utils.b.b(d, "brian Encoded str of " + str3 + " is :" + a2);
     jSONObject.put(str2, a2);
     }
+
+
+
+
