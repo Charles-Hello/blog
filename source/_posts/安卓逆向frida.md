@@ -41,5 +41,4 @@ adb shell su -c "ps | grep frida-server"
 adb shell su -c "kill -9 20607"
 
 adb shell su -c "/data/local/tmp/frida-server -l 0.0.0.0:1234"  
-adb forward tcp:1234 tcp:1234
 frida -H 127.0.0.1:1234 -l jdclass.js -f com.jingdong.app.mall
