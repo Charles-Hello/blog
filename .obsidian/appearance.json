@@ -1,6 +1,6 @@
 {
   "accentColor": "#5e5555",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "custom-icons-files-and-folders"
