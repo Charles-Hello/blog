@@ -10,5 +10,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "source/_posts",
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }
