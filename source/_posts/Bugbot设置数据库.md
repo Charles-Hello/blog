@@ -2,7 +2,7 @@
 title: Bugbot设置数据库
 date: 2023-07-11 17:59:12
 tags: []
-index_img: ../banner_images/banne_photo253.png
+index_img: ../banner_images/banne_photo23.png
 ---
 
 
