@@ -1,4 +1,9 @@
-
+---
+title: js逆向练习
+date: 2023-07-11 21:28:11
+tags: [js]
+index_img: ../banner_images/banne_photo5.png
+---
 
 
 ![](../../images/Pasted%20image%2020230707163501.png)
