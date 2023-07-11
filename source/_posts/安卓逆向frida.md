@@ -2,7 +2,7 @@
 title: 安卓逆向frida
 date: 2023-07-11 18:04:09
 tags: [app逆向]
-index_img: ../banner_images/banne_photo.png
+index_img: ../banner_images/banne_photo55.png
 ---
 
 
