@@ -12,11 +12,13 @@ index_img: ../banner_images/banne_photo.png
 这可能是因为在某些设备上，`/sdcard`目录默认不允许执行文件。你可以尝试将`frida-server`文件移动到其他位置，如`/data/local/tmp`目录，并尝试执行以下命令：
 
 
-
+```
 adb push frida-server-16.0.19-android-arm64 /sdcard/temp/
 adb shell su -c "mv /sdcard/temp/frida-server-16.0.19-android-arm64 /data/local/tmp/frida-server"
 adb shell su -c "chmod +x /data/local/tmp/frida-server"
 adb shell su -c "/data/local/tmp/frida-server"
+```
+
 
 杀死frida-server
 adb shell su -c "ps | grep frida-server"
