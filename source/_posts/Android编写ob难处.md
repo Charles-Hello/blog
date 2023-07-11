@@ -13,9 +13,9 @@ index_img: ../banner_images/banne_photo96.png
 
 2. #todo 还有模板头都需要手动去设置
 
-3. #todo 还得根据手机导入图片，电脑端Python脚本转化文件名
+3. #todo 还得根据手机导入图片，电脑端Python脚本转化文件名例如如下这个格式
 ![[SAVE_20230711_210614.jpg]]
-
+然后扫描全部文档将其
 
 
 
