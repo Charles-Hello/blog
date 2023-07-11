@@ -1,7 +1,6 @@
----
-categories:
-  - js逆向
----
+
+
+
 ![](../../images/Pasted%20image%2020230707163501.png)
 当类型为document的时候从元素入手找到加密的password
 ![](../../images/Pasted%20image%2020230707163608.png)
