@@ -1,6 +1,6 @@
 
 ---
-title: 测试一哈
+title: mob
 date: 2023-07-11 17:35:18
 tags: []
 index_img: ../banner_images/banne_photo96.png
@@ -11,7 +11,7 @@ Obsidian git好像有个bug，手机端不能同步覆盖
 这个是todo，以后就解决。
 
 手机编写还有一个问题就是图片上传比较麻烦。
-这个
+这个也是解决的地方。
 
 
 
