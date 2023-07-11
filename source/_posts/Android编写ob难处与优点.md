@@ -21,6 +21,6 @@ index_img: ../banner_images/banne_photo96.png
 
 
 
-
+没有优点！
 
 
