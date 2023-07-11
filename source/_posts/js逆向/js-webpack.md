@@ -1,8 +1,8 @@
 ---
 title: js-webpack
 date: 2023-07-11 22:47:00
-tags: []
-index_img: ../banner_images/banne_photo.png
+tags: [js逆向]
+index_img: ../banner_images/banne_photo6.png
 ---
 
 
