@@ -8,4 +8,4 @@ index_img: ../banner_images/banne_photo6.png
 
 ![](../../images/Pasted%20image%2020230709222759.png)
 看到这种直接下s.request
-webpack特点
+webpack特点，e.export导出局部作用区域函数
