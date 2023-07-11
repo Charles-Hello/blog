@@ -5,7 +5,7 @@
     "scaffolds/"
   ],
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "source/images",
+  "attachmentFolderPath": "source/_posts",
   "newLinkFormat": "relative",
   "newFileLocation": "folder",
   "newFileFolderPath": "source/_posts",
