@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "e43ebe9879b6870d",
+  "active": "f5860bd1de8b354f",
   "lastOpenFiles": [
     "source/_posts/js逆向/js追异步堆栈.md",
     "source/_posts/js逆向/js逆向之平坦流.md",
