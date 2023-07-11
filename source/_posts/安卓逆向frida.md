@@ -1,3 +1,11 @@
+---
+title: 
+date: 2023-07-11 18:04:09
+tags: [app逆向]
+index_img: ../banner_images/banne_photo.png
+---
+
+
 如果遇到root权限不行的话，尝试
 如果在执行`adb shell su -c "/sdcard/temp/frida-server-14.2.17-android-arm64"`命令时收到"Permission denied"错误消息，说明没有执行该文件的权限。
 
