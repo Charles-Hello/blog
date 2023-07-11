@@ -10,5 +10,4 @@ _multiconfig.yml
 .obsidian/
 __pycache__/
 *.pyc
-*obsidian/*
-.obsidian/*
+
