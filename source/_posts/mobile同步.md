@@ -6,5 +6,5 @@ tags: []
 index_img: ../banner_images/banne_photo96.png
 ---
 好像有个bug，手机端不能同步覆盖
-需要注意的是，
+需要注意的是，千万不要电脑和手机端同时同步。否则
 
