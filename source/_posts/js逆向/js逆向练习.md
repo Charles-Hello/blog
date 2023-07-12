@@ -2,7 +2,7 @@
 title: js逆向练习
 tags:
   - js逆向
-index_img: ../banner_images/banne_photo5.png
+index_img: ../banner_images/banne_photo05.png
 categories:
   - js逆向
 date: 2023-07-11 21:28:11
