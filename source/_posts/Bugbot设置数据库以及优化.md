@@ -19,4 +19,4 @@ docker run -d -p 5433:80 --name pgadmin4 -e PGADMIN_DEFAULT_EMAIL=1140601003@qq.
 ![](../images/Pasted%20image%2020230706133521.png)
 
 # 优化
-管理员中文pin置顶没有通知
+管理员中文pin置顶没有通知别人
