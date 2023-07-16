@@ -30,9 +30,9 @@ sign(r)为h5st加密
 4. 跳1应该是用“，”分割字符串![](../Pasted%20image%2020230716092750.png)
 5. 跳2是h5st的执行结果![](../Pasted%20image%2020230716092916.png)可以看到有w，A，s，r四个参数，w是上述的3的W赋值，A为7的时间戳，S为时间具体数![](../Pasted%20image%2020230716093138.png)r为body的值![](../Pasted%20image%2020230716093234.png)
 到这里我们分析到了整个h5st
-
-
+```
 [""[s(1300, 0, 0, 1418)](r), ""[a(0, 0, 1112, 1200)](this[a(0, 0, 1235, 1089) + "nt"]), ""[a(0, 0, 1112, 1207)](this[s(1438, 0, 0, 1465)]), ""[a(0, 0, 1112, 999)](this[s(1239, 0, 0, 1109)] ? this._token : this[a(0, 0, 1011, 970) + s(1394, 0, 0, 1444)]), ""[s(1300, 0, 0, 1255)](e), "".concat(this[a(0, 0, 1247, 1196)]), ""[s(1300, 0, 0, 1382)](t), "".concat(n)][a(0, 0, 1236, 1342)](";")
+```
 "20230716092019005;mm5z9t6nig5353w5;95cb3;tk03wb56e1c7f18n1hIoD5JrXiyAXLCU3I70x-wqdJOi6zzxAvvtKpuByuSJpe0gBvjSJi8LqOD2z1ZOTqwHoh2F3BjG;29a9f183bd9b1d11c4d03a7bf4e1f465;4.1;1689470419005;ee3cf7f6b94dc20e9265d83066bb9cee06c9d012b4d563d6da825f399a1bb7301c0d5ff3240351c7bdff196e5c0df0152761dc3179f8a3012b41eba050ac89622a963c4994748609e839d26c8abba1d18171b069a129b7f74236f719246d60e8ae5b0242ecda636d657b3b585dcf2ccefeaa79c07467945c28e49f4806b25ec597eeb6f059eaa71b47ec1c7b6d37df347fd657a62af8c56bc99cfc72a26bee1cbbd4ca69ad97cc9d41b419695a6983f53a686eb9cccdfe9bf873130d404b89163fe0d8d436f97efbd1e1e43835cbc6cf"
 
 
