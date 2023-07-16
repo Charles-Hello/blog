@@ -37,11 +37,11 @@ sign(r)为h5st加密
 
 "<font color="#c0504d">20230716092019005</font>;<font color="#9bbb59">mm5z9t6nig5353w5</font>;<font color="#f79646">95cb3</font>;<font color="#e36c09">tk03wb56e1c7f18n1hIoD5JrXiyAXLCU3I70x-wqdJOi6zzxAvvtKpuByuSJpe0gBvjSJi8LqOD2z1ZOTqwHoh2F3BjG</font>;<font color="#ff0000">29a9f183bd9b1d11c4d03a7bf4e1f465</font>;<font color="#548dd4">4.1</font>;<font color="#953734">1689470419005</font>;<font color="#ffff00">ee3cf7f6b94dc20e9265d83066bb9cee06c9d012b4d563d6da825f399a1bb7301c0d5ff3240351c7bdff196e5c0df0152761dc3179f8a3012b41eba050ac89622a963c4994748609e839d26c8abba1d18171b069a129b7f74236f719246d60e8ae5b0242ecda636d657b3b585dcf2ccefeaa79c07467945c28e49f4806b25ec597eeb6f059eaa71b47ec1c7b6d37df347fd657a62af8c56bc99cfc72a26bee1cbbd4ca69ad97cc9d41b419695a6983f53a686eb9cccdfe9bf873130d404b89163fe0d8d436f97efbd1e1e43835cbc6cf</font>"
 
-由7个部分组成，我们还得一一研究这三个不确定的值
+由7个部分组成，我们还得一一研究这四个不确定的值
 1. mm5z9t6nig5353w5
 2. 95cb3
 3. tk03wb56e1c7f18n1hIoD5JrXiyAXLCU3I70x-wqdJOi6zzxAvvtKpuByuSJpe0gBvjSJi8LqOD2z1ZOTqwHoh2F3BjG;
 4. 29a9f183bd9b1d11c4d03a7bf4e1f465
-这三个值的由来
+这四个值的由来
 
-我们依次单步运行，发现前3个值为固定值，
+我们依次单步运行，发现前4个值为固定值，
