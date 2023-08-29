@@ -22,6 +22,6 @@ index_img: ../banner_images/banne_photo38.png
 然后看[Home Assistant](http://192.168.1.60:8123/onboarding.html)点击登录即可
 
 
-
+还是建议搭建samba
 
 
