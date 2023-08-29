@@ -10,4 +10,5 @@ index_img: ../banner_images/banne_photo38.png
 ![](Pasted%20image%2020230829221734.png)
 
 ![](Pasted%20image%2020230829221754.png)
-XI
+下载kvm，然后ssh连接pve终端，导入进去
+
