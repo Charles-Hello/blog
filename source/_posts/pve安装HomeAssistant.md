@@ -23,5 +23,5 @@ index_img: ../banner_images/banne_photo38.png
 
 
 还是建议搭建samba
-
-
+![](Pasted%20image%2020230829231749.png)
+忘记密码的可以删除这个
