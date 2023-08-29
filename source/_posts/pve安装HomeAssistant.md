@@ -17,4 +17,6 @@ index_img: ../banner_images/banne_photo38.png
 
 输入这个命令qm importdisk 106 haos_ova-10.5.qcow2 local-lvm
 然后启动。
+如果没有科学的
+
 
