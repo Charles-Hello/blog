@@ -19,7 +19,8 @@ index_img: ../banner_images/banne_photo38.png
 然后启动。
 如果没有科学的话。
 在看[Home Assistant虚拟机版，修改ip地址和网关 - 哔哩哔哩 (bilibili.com)](https://www.bilibili.com/read/cv17123823/)
-然后看[Home Assistant](http://192.168.1.60:8123/onboarding.html)
+然后看[Home Assistant](http://192.168.1.60:8123/onboarding.html)点击登录即可
+
 
 
 
