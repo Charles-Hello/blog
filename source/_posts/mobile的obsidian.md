@@ -5,4 +5,4 @@ tags: []
 index_img: ../banner_images/banne_photo82.png
 ---
 
-下载https://github.com/Charles-Hello/blog.git
+下载https://github.com/Charles-Hello/blog.git安装包，然后导入根目录，打开git文件夹，配置git
