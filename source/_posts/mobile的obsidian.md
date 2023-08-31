@@ -10,4 +10,6 @@ index_img: ../banner_images/banne_photo82.png
 ![](Screenshot_2023-08-31-22-14-45-976_md.obsidian.jpg)
 
 
-然后配置git插件的username为Charles-Hello。密码是微信的收藏的token。即可！！
+然后配置git插件的**username**为Charles-Hello。密码是微信的收藏的**token**。即可！！
+
+
