@@ -10,7 +10,7 @@ str1没有byte之前
 b3d087800fbda114&jf_app&{"clientPageId":"jingfen_app","funName":"share","param":{"shareReq":[{"command":1,"notAllowAddToShareManagement":1,"plainUrl":"https://item.m.jd.com/product/100059194543.html?utm_user=plusmember&gx=RnEykW9ZazLcmNRP--tzCLOIdgHUJtY4teq1&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL","platform":1,"shareType":1,"skuId":100059194543,"spuId":0}]}}&20220474&android&3.12.42&Xiaomi&22041211AC&unionShare&13&XiaoMi&2280*1080&1687848528327&00000000-0000-0000-ffff-ffffd76d294b
 
 str1是个根据plainUrl变化的值。
-
+ 
 
 str2是个固定的值 53b0dc1fea2b46ef9651e324ddb1f5b2
 
