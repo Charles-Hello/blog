@@ -25,6 +25,11 @@ jobs:
         python source/python/photo_edit.py
         python source/python/photo_move.py
       
+    - name: Check if changes exist
+      run: |
+        git diff-index --quiet HEAD || touch .gitchanges
+      id: check_changes
+      
     - name: Commit and push changes
       run: |
         git config --global user.name "Charles-Hello"
@@ -32,6 +37,7 @@ jobs:
         git add .
         git commit -m "Update Markdown files"
         git push https://${{ secrets.HEXO_DEPLOY }}@github.com/Charles-Hello/blog.git HEAD:main
+      if: steps.check_changes.outputs.returncode == '0'
 
 
   build-and-deploy:
