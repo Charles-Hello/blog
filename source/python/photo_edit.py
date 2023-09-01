@@ -8,7 +8,7 @@ def process_md_file(file_path):
     updated_lines = []
 
     for line in lines:
-        match = re.search(r'!\[\]\(([^)]+\.(?:jpg|png|jpeg|svg|webp))\)', line)
+        match = re.search(r'!\[\]\(([^)]+\.(?:jpg|gif|png|jpeg|svg|webp))\)', line)
         if match:
             image_url = match.group(1)
             if not image_url.startswith('../images/'):
@@ -30,5 +30,5 @@ def process_directory(directory_path):
                 process_md_file(file_path)
 
 # 使用示例
-target_directory = 'source/python'
+target_directory = 'source/_posts'
 process_directory(target_directory)

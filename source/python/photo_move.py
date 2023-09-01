@@ -16,5 +16,5 @@ def move_images_to_images_folder(directory_path):
                 print(f"Moved '{file}' to 'images' folder.")
     
 # 使用示例
-target_directory = 'source/python'
+target_directory = 'source/_posts'
 move_images_to_images_folder(target_directory)
