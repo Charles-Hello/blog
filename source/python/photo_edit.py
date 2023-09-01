@@ -30,5 +30,5 @@ def process_directory(directory_path):
                 process_md_file(file_path)
 
 # 使用示例
-target_directory = '/source/python'
+target_directory = 'source/python'
 process_directory(target_directory)
