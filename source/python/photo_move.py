@@ -2,7 +2,7 @@ import os
 import shutil
 
 def move_images_to_images_folder(directory_path):
-    images_folder = os.path.join(directory_path, 'images')
+    images_folder = "source/images"
     
     if not os.path.exists(images_folder):
         os.mkdir(images_folder)
