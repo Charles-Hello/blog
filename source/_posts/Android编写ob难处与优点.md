@@ -22,5 +22,8 @@ index_img: ../banner_images/banne_photo96.png
 
 
 没有优点！
+测试
+![](Pasted%20image%2020230901141323.png)
 
 
+![](Pasted%20image%2020230901141316.png)
