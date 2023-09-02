@@ -7,3 +7,5 @@ index_img: ../banner_images/banne_photo28.png
 看这个，我的是M1
 [Mac上pyenv的安装与使用 - 掘金 (juejin.cn)](https://juejin.cn/post/7056800493753860103)
 
+brew install xz
+CFLAGS="-I$(brew --prefix xz)/include" LDFLAGS="-L$(brew --prefix xz)/lib" pyenv install 3.10.5
