@@ -77,4 +77,11 @@ function test(tk, fp, ts, ai, algo) {
 
 返回![](Pasted%20image%2020230913205419.png)
 
-![](Pasted%20image%2020230913205724.png)
+
+最后tostring()方法
+![](Pasted%20image%2020230913210306.png)
+this[a(-219, -335)](this[o(569, 0, 526)], this._fingerprint, x, this._appId, this[o(494, 0, 603)])[a(-320, -395)]()
+
+返回 b = d180f42cfe36a613c22c2d3cddff812e
+![](Pasted%20image%2020230913210424.png)这里的m用刚刚的生成的b和e这个对象![](Pasted%20image%2020230913210451.png)
+
