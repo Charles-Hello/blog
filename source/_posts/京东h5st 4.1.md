@@ -50,4 +50,4 @@ index_img: ../banner_images/banne_photo43.png
 
 先从body入手
 "{"tenantCode":"jgm","bizModelCode":5,"bizModeClientType":"M","externalLoginType":"1","clientType":"1","version":"v2","skuids":"10069306555159,10076741357562,10076740799066,10079346060894,10079357721739,10084839123499,10069306555158,10081048404566,10082586839677,10082881797037,10082049072574","debug":"false"}"
-![](Pasted%20image%2020230913192258.png)
+![](../images/Pasted%20image%2020230913192258.png)
