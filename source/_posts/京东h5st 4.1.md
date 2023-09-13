@@ -51,3 +51,29 @@ index_img: ../banner_images/banne_photo43.png
 先从body入手
 "{"tenantCode":"jgm","bizModelCode":5,"bizModeClientType":"M","externalLoginType":"1","clientType":"1","version":"v2","skuids":"10069306555159,10076741357562,10076740799066,10079346060894,10079357721739,10084839123499,10069306555158,10081048404566,10082586839677,10082881797037,10082049072574","debug":"false"}"
 ![](../images/Pasted%20image%2020230913192258.png)
+
+
+-----------------------------------------------
+这里把tk = tk03w96f71be318nMZk4d1kxX0ONsRL6Uq3ChNs6hMxsh5T1DBeNIY1jlRVkzAJsPtQPB4yr1niu8C8Ad_KeQ2UFbbnd
+fp = mm5z9t6nig5353w5
+ai = 95cb3
+rd =flXhXIJyXqv3
+拼起来，然后使用algo.md5("tk03w96f71be318nMZk4d1kxX0ONsRL6Uq3ChNs6hMxsh5T1DBeNIY1jlRVkzAJsPtQPB4yr1niu8C8Ad_KeQ2UFbbndmm5z9t6nig5353w5202309132043588590495cb3flXhXIJyXqv3")
+返回数组
+
+![](Pasted%20image%2020230913205137.png)
+function test(tk, fp, ts, ai, algo) {
+        var rd = 'flXhXIJyXqv3';
+        var str = "".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);
+        return algo.MD5(str);
+    }
+}
+这里把
+
+![](Pasted%20image%2020230913205356.png)
+
+继续跟进
+![](Pasted%20image%2020230913205045.png)
+
+返回![](Pasted%20image%2020230913205419.png)
+
