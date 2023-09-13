@@ -84,4 +84,10 @@ this[a(-219, -335)](this[o(569, 0, 526)], this._fingerprint, x, this._appId, thi
 
 返回 b = d180f42cfe36a613c22c2d3cddff812e
 ![](Pasted%20image%2020230913210424.png)这里的m用刚刚的生成的b和e这个对象![](Pasted%20image%2020230913210451.png)
+这里的e是b，
+d = "appid:jd-cphdeveloper-m&body:48d1d6fbd2547b42ebda28789f2c6b0fb8514284735734008d116f6ab027e8c8&functionId:te_m_searchWareComment"
 
+![](Pasted%20image%2020230913210847.png)
+最后生成5f7604bbf6bba9022f0c3d072614aed4
+
+![](Pasted%20image%2020230913211018.png)
