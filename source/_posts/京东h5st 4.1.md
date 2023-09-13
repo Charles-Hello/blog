@@ -61,7 +61,7 @@ rd =flXhXIJyXqv3
 拼起来，然后使用algo.md5("tk03w96f71be318nMZk4d1kxX0ONsRL6Uq3ChNs6hMxsh5T1DBeNIY1jlRVkzAJsPtQPB4yr1niu8C8Ad_KeQ2UFbbndmm5z9t6nig5353w5202309132043588590495cb3flXhXIJyXqv3")
 返回数组
 
-![](Pasted%20image%2020230913205137.png)
+![](../images/Pasted%20image%2020230913205137.png)
 function test(tk, fp, ts, ai, algo) {
         var rd = 'flXhXIJyXqv3';
         var str = "".concat(tk).concat(fp).concat(ts).concat(ai).concat(rd);
@@ -70,10 +70,10 @@ function test(tk, fp, ts, ai, algo) {
 }
 这里把
 
-![](Pasted%20image%2020230913205356.png)
+![](../images/Pasted%20image%2020230913205356.png)
 
 继续跟进
-![](Pasted%20image%2020230913205045.png)
+![](../images/Pasted%20image%2020230913205045.png)
 
-返回![](Pasted%20image%2020230913205419.png)
+返回![](../images/Pasted%20image%2020230913205419.png)
 
