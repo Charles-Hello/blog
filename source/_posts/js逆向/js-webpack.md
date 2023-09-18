@@ -9,6 +9,6 @@ date: 2023-07-11 22:47:00
 ---
 
 
-![](../images/../../images/Pasted%20image%2020230709222759.png)
+![](../../images/Pasted%20image%2020230709222759.png)
 看到这种直接下s.request
 webpack特点，e.export导出局部作用区域函数
