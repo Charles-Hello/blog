@@ -9,7 +9,7 @@ index_img: ../banner_images/banne_photo86.png
 
 
 
-```
+`````` javascript
 function q(t, e) {
                 for (var n = t.toString().length; n < e; )
                     t = "0" + t,
@@ -172,5 +172,47 @@ function H(t, e, n) {
 e = 99992
 
 n ="23130303037303236454145424647333930364347354831453137323142373636383333363233303033333234454636454541433246344546333730344346493333373831483530334233303035313030303"
+
+```
+
+
+``` javascript
+鼠标事件
+
+
+
+{
+	key: "start",
+	value: function(t) {
+		G.doStartCheck(),
+		this.spImg = "https://h5.360buyimg.com/jcap/img_20190409/right-white.png",
+		this.moveX = Object(T.e)(t),
+		this.moveY = Object(T.f)(t),
+		this.lastTime = Date.now(),
+		this.xyList.push([0, 0, 0]),
+		t.stopPropagation(),
+		t.cancelable && t.preventDefault()
+	}
+}
+
+
+{
+{key: "move",
+value: function(t) {
+	var e = Object(T.e)(t) - this.moveX
+	  , n = Object(T.f)(t) - this.moveY;
+	0 <= e && e < this.$refs.cpc_img.width - this.$refs.move_img.width && (this.spMsg = this.langMap.code_23,
+	this.$refs.move_img.style.left = e + "px",
+	this.$refs.small_img.style.left = e + "px",
+	this.$refs.bg_blue.style.width = e + 20 + "px",
+	this.$refs.sp_msg.getBoundingClientRect().left,
+	this.$refs.sp_msg.getBoundingClientRect().top,
+	this.xyList.push([Number(e.toFixed(2)), Number(n.toFixed(2)), Date.now() - this.lastTime]),
+	this.lastTime = Date.now()),
+	t.stopPropagation(),
+	t.cancelable && t.preventDefault()
+}}
+
+这里主要拿到xyList这个表。是由
 
 ```
