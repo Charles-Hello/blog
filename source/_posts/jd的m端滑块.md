@@ -16,17 +16,98 @@ function q(t, e) {
                     n++;
                 return t
 }
-r = n.sessionId
-o = n.language
-i = n.tdat_code
-a = n.host
-s = n.st 
-c = n.devcInfo
+r = n.sessionId ="fIS8JQABAAAIPtAi5FkAMHu---j78gy-GB0Hi1vlU50IYL3V0VefS5LFuK1KAf1wE0S8hgdj3af0wjXtsEplgAAAAAA"
+o = n.language =1
+i = n.tdat_code =99992
+a = n.host ="//jcap.m.jd.com"
+s = n.st ="taJvP8ua60xCxdby"
+c = n.devcInfo ="{"account":"15015344889","ccode":"86","capfp":"xpo7vzpVL5aRVVkbpmzqh117VZR_o7SNJgiJE24rprnSGM5XwlDKoQCe9EvBac2ym_S13lLjJgRpiIQitr6HRw==","cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}"
 u = n.urlMap
 f = n.platformOS
 l = n.tdat_ctx;
-r = n.sessionId ="fIS8JQABAAAIPtAi5FkAMHu---j78gy-GB0Hi1vlU50IYL3V0VefS5LFuK1KAf1wE0S8hgdj3af0wjXtsEplgAAAAAA"
-s = 
+h = [
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "acc-input mobile J_ping",
+        "sx": 289,
+        "sy": 196,
+        "px": 285,
+        "py": 92,
+        "time": 1695201591043
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "policy_tip-checkbox",
+        "sx": 53,
+        "sy": 596,
+        "px": 49,
+        "py": 492,
+        "time": 1695201595164
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "getMsg-btn text-btn J_ping timer",
+        "sx": 586,
+        "sy": 256,
+        "px": 582,
+        "py": 152,
+        "time": 1695201598058
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "",
+        "sx": 304,
+        "sy": 659,
+        "px": 300,
+        "py": 555,
+        "time": 1695201613573
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "acc-input mobile J_ping",
+        "sx": 284,
+        "sy": 190,
+        "px": 280,
+        "py": 86,
+        "time": 1695208898504
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "policy_tip-checkbox",
+        "sx": 32,
+        "sy": 596,
+        "px": 28,
+        "py": 492,
+        "time": 1695208903034
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "page",
+        "sx": 364,
+        "sy": 130,
+        "px": 360,
+        "py": 26,
+        "time": 1695208910828
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "getMsg-btn text-btn J_ping timer",
+        "sx": 562,
+        "sy": 254,
+        "px": 558,
+        "py": 150,
+        "time": 1695208910856
+    }
+]
+
 d = 1695208930000
 tk = H(d + q(r.length, 4) + r + q(s.length, 4) + s + q(t.length, 6) + t + JSON.stringify(h) + K(p), i, l)
 
