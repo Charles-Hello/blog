@@ -186,8 +186,8 @@ n ="2313030303730323645414542464733393036434735483145313732314237363638333336323
 	value: function(t) {
 		G.doStartCheck(),
 		this.spImg = "https://h5.360buyimg.com/jcap/img_20190409/right-white.png",
-		this.moveX = Object(T.e)(t),
-		this.moveY = Object(T.f)(t),
+		this.moveX = Object(T.e)(t), //160
+		this.moveY = Object(T.f)(t), //570
 		this.lastTime = Date.now(),
 		this.xyList.push([0, 0, 0]),
 		t.stopPropagation(),
