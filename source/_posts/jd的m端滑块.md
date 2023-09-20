@@ -17,14 +17,25 @@ function q(t, e) {
                 return t
 }
 r = n.sessionId ="fIS8JQABAAAIPtAi5FkAMHu---j78gy-GB0Hi1vlU50IYL3V0VefS5LFuK1KAf1wE0S8hgdj3af0wjXtsEplgAAAAAA"
+
+"NKDXJQABAAACmaq89AUAMEIpwouOq0Y-bF7W-7YWBWGpctUtrL0x6BdK_90Vq7A7EAiILQ1nXwJbtiX5bLAZwgAAAAA"
 o = n.language =1
 i = n.tdat_code =99992
 a = n.host ="//jcap.m.jd.com"
 s = n.st ="taJvP8ua60xCxdby"
 c = n.devcInfo ="{"account":"15015344889","ccode":"86","capfp":"xpo7vzpVL5aRVVkbpmzqh117VZR_o7SNJgiJE24rprnSGM5XwlDKoQCe9EvBac2ym_S13lLjJgRpiIQitr6HRw==","cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}"
-u = n.urlMap
-f = n.platformOS
-l = n.tdat_ctx;
+u = n.urlMap = {
+    "report": "https://jcapmonitor.m.jd.com/web_jcap_report",
+    "img": "https://h5.360buyimg.com/jcap/pc/img/",
+    "iframe": "https://h5.360buyimg.com/jcap/html/captchaStorage.html",
+    "js": "https://h5.360buyimg.com/jcap/js/",
+    "fp": "/cgi-bin/api/fp",
+    "refresh": "/cgi-bin/api/refresh",
+    "check": "/cgi-bin/api/check",
+    "v": 20180110
+}
+f = n.platformOS ="m"
+l = n.tdat_ctx ='23130303037303236454145424647333930364347354831453137323142373636383333363233303033333234454636454541433246344546333730344346493333373831483530334233303035313030303'
 h = [
     {
         "eid": "click",
@@ -107,11 +118,29 @@ h = [
         "time": 1695208910856
     }
 ]
-
+p = 12
 d = 1695208930000
+
 tk = H(d + q(r.length, 4) + r + q(s.length, 4) + s + q(t.length, 6) + t + JSON.stringify(h) + K(p), i, l)
 
 
-tk  = d + 
+
+function H(t, e, n) {
+                var r = t
+                  , o = i;
+                e && (a = e);
+                try {
+                    return n ? JSON.stringify(window.f.getEncryptData(r, n)) : s(r, o)
+                } catch (t) {
+                    return s(r, o)
+                }
+}
+
+
+这里的H的参数t= "16952089300000091fIS8JQABAAAIPtAi5FkAMHu---j78gy-GB0Hi1vlU50IYL3V0VefS5LFuK1KAf1wE0S8hgdj3af0wjXtsEplgAAAAAA0016taJvP8ua60xCxdby000000{"touchList":[{"eid":"click","did":"","cn":"acc-input mobile J_ping","sx":289,"sy":196,"px":285,"py":92,"time":1695201591043},{"eid":"click","did":"","cn":"policy_tip-checkbox","sx":53,"sy":596,"px":49,"py":492,"time":1695201595164},{"eid":"click","did":"","cn":"getMsg-btn text-btn J_ping timer","sx":586,"sy":256,"px":582,"py":152,"time":1695201598058},{"eid":"click","did":"","cn":"","sx":304,"sy":659,"px":300,"py":555,"time":1695201613573},{"eid":"click","did":"","cn":"acc-input mobile J_ping","sx":284,"sy":190,"px":280,"py":86,"time":1695208898504},{"eid":"click","did":"","cn":"policy_tip-checkbox","sx":32,"sy":596,"px":28,"py":492,"time":1695208903034},{"eid":"click","did":"","cn":"page","sx":364,"sy":130,"px":360,"py":26,"time":1695208910828},{"eid":"click","did":"","cn":"getMsg-btn text-btn J_ping timer","sx":562,"sy":254,"px":558,"py":150,"time":1695208910856}]}foapmqy5ck2e"
+
+e = 99992
+
+n ="23130303037303236454145424647333930364347354831453137323142373636383333363233303033333234454636454541433246344546333730344346493333373831483530334233303035313030303"
 
 ```
