@@ -35,10 +35,8 @@ u = n.urlMap = {
 f = n.platformOS ="m"
 l = n.tdat_ctx ='23130303037303236454145424647333930364347354831453137323142373636383333363233303033333234454636454541433246344546333730344346493333373831483530334233303035313030303'
 
-
+这里的e是 touche_message
 var t = window.localStorage.getItem(e) || "{}";
-
-1. "[{\"eid\":\"click\",\"did\":\"\",\"cn\":\"\",\"sx\":216,\"sy\":660,\"px\":212,\"py\":556,\"time\":1695210205669},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"getMsg-btn text-btn J_ping timer\",\"sx\":532,\"sy\":270,\"px\":528,\"py\":166,\"time\":1695210401014},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"acc-input mobile J_ping\",\"sx\":311,\"sy\":193,\"px\":307,\"py\":89,\"time\":1695210408168},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"policy_tip-checkbox\",\"sx\":39,\"sy\":600,\"px\":35,\"py\":496,\"time\":1695210412964},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"getMsg-btn text-btn J_ping timer\",\"sx\":514,\"sy\":253,\"px\":510,\"py\":149,\"time\":1695210414950},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"\",\"sx\":223,\"sy\":661,\"px\":219,\"py\":557,\"time\":1695210421522},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"captcha_drop\",\"sx\":369,\"sy\":121,\"px\":365,\"py\":17,\"time\":1695210792485},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"getMsg-btn text-btn J_ping timer\",\"sx\":539,\"sy\":259,\"px\":535,\"py\":155,\"time\":1695210793652},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"captcha_drop\",\"sx\":373,\"sy\":123,\"px\":369,\"py\":19,\"time\":1695210802219},{\"eid\":\"click\",\"did\":\"\",\"cn\":\"getMsg-btn text-btn J_ping timer\",\"sx\":554,\"sy\":267,\"px\":550,\"py\":163,\"time\":1695210803422}]"
 
 
 return JSON.parse(t)
@@ -130,6 +128,15 @@ h = {
 d = 1695208930000 （时间戳）
 p = d % 41 
 
+
+
+
+function K(t) {
+                for (var e = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"], n = "", r = 0; r < t; r++) {
+                    n += e[Math.floor(35 * Math.random())]
+                }
+return n
+}
 
 tk = H(d + q(r.length, 4) + r + q(s.length, 4) + s + q(t.length, 6) + t + JSON.stringify(h) + K(p), i, l)
 
