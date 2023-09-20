@@ -115,8 +115,8 @@ h = [
         "py": 150,
         "time": 1695208910856
     }
-]
-p = 12
+]（随机）
+p = 8 （待确认）
 d = 1695208930000
 
 tk = H(d + q(r.length, 4) + r + q(s.length, 4) + s + q(t.length, 6) + t + JSON.stringify(h) + K(p), i, l)
