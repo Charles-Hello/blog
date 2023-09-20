@@ -213,6 +213,9 @@ value: function(t) {
 	t.cancelable && t.preventDefault()
 }}
 
-这里主要拿到xyList这个表。是由
+这里主要拿到xyList这个表。是由x，y，时间戳 
+
+x 的格式为滑动距离
+y 可以
 
 ```
