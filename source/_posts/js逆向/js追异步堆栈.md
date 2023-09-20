@@ -7,5 +7,5 @@ categories:
 date: 2023-07-07 21:44:46
 ---
 
-![](../images/../../images/Pasted%20image%2020230707214504.png)
+![](../../images/Pasted%20image%2020230707214504.png)
 排除chunk，这种是压缩包。
