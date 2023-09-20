@@ -142,6 +142,19 @@ tk = H(d + q(r.length, 4) + r + q(s.length, 4) + s + q(t.length, 6) + t + JSON.s
 
 
 
+function getEncryptData(arg0, arg1) {
+if (arguments.length !== 2) {
+throwBindingError('function getEncryptData called with ' + arguments.length + ' arguments, expected 2 args!');
+}
+var arg0Wired = argType0.toWireType(null, arg0); // std::string
+var arg1Wired = argType1.toWireType(null, arg1); // std::string
+var rv = invoker(fn, arg0Wired, arg1Wired);
+arg0Wired_dtor(arg0Wired); // std::string
+arg1Wired_dtor(arg1Wired); // std::string
+var ret = retType.fromWireType(rv);
+return ret;
+}
+
 function H(t, e, n) {
                 var r = t
                   , o = i;
