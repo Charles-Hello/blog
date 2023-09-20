@@ -213,9 +213,10 @@ value: function(t) {
 	t.cancelable && t.preventDefault()
 }}
 
-这里主要拿到xyList这个表。是由x，y，时间戳 
-
+这里主要拿到xyList这个表。是由x，y，t
+滑满则为400
 x 的格式为滑动距离
-y 可以
+y 可以伪造范围为正负10左右
+t 花费时间 一开始为1-4s左右，后来接近的时候比较30-40ms
 
 ```
