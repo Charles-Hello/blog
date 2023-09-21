@@ -16,10 +16,11 @@ function q(t, e) {
                     n++;
                 return t
 }
-r = n.sessionId ="fIS8JQABAAAIPtAi5FkAMHu---j78gy-GB0Hi1vlU50IYL3V0VefS5LFuK1KAf1wE0S8hgdj3af0wjXtsEplgAAAAAA"(会变)
-o = n.language =1
-i = n.tdat_code =99992
-a = n.host ="//jcap.m.jd.com"
+r = n.sessionId ="fIS8JQABAAAIPtAi5FkAMHu---j78gy-GB0Hi1vlU50IYL3V0VefS5LFuK1KAf1wE0S8hgdj3af0wjXtsEplgAAAAAA"(由  
+https://plogin.m.jd.com/cgi-bin/mm/jcapsid的post的到)
+o = n.language =1 （固定）
+i = n.tdat_code =99992 （固定）
+a = n.host ="//jcap.m.jd.com" （固定）
 s = n.st ="taJvP8ua60xCxdby" (会变)
 c = n.devcInfo ="{"account":"15015344889","ccode":"86","capfp":"xpo7vzpVL5aRVVkbpmzqh117VZR_o7SNJgiJE24rprnSGM5XwlDKoQCe9EvBac2ym_S13lLjJgRpiIQitr6HRw==","cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}" (只变account)
 u = n.urlMap = {
@@ -31,9 +32,9 @@ u = n.urlMap = {
     "refresh": "/cgi-bin/api/refresh",
     "check": "/cgi-bin/api/check",
     "v": 20180110
-}
-f = n.platformOS ="m"
-l = n.tdat_ctx ='23130303037303236454145424647333930364347354831453137323142373636383333363233303033333234454636454541433246344546333730344346493333373831483530334233303035313030303'
+}（固定）
+f = n.platformOS ="m" （固定）
+l = n.tdat_ctx ='23130303037303236454145424647333930364347354831453137323142373636383333363233303033333234454636454541433246344546333730344346493333373831483530334233303035313030303' （固定）
 
 这里的e是 touche_message
 var t = window.localStorage.getItem(e) || "{}";
@@ -51,7 +52,7 @@ h = {
         "sy": 186,
         "px": 142,
         "py": 82,
-        "time": 1695258916201
+        "time": 1695258916201 （最早）
     },
     {
         "eid": "click",
@@ -141,11 +142,11 @@ h = {
         "sy": 661,
         "px": 186,
         "py": 557,
-        "time": 1695260446609
+        "time": 1695260446609 （最后）
     }
 ]（10个，sx,sy,px,py 上下正负10，time为滑块花费的时间然后取10次）
 
-d = 1695208930000 （时间戳）
+d = 1695208930000 （时间戳最后的时间加几秒）
 p = d % 41 
 
 
@@ -192,9 +193,9 @@ function H(t, e, n) {
 
 这里的H的参数t= "16952089300000091fIS8JQABAAAIPtAi5FkAMHu---j78gy-GB0Hi1vlU50IYL3V0VefS5LFuK1KAf1wE0S8hgdj3af0wjXtsEplgAAAAAA0016taJvP8ua60xCxdby000000{"touchList":[{"eid":"click","did":"","cn":"acc-input mobile J_ping","sx":289,"sy":196,"px":285,"py":92,"time":1695201591043},{"eid":"click","did":"","cn":"policy_tip-checkbox","sx":53,"sy":596,"px":49,"py":492,"time":1695201595164},{"eid":"click","did":"","cn":"getMsg-btn text-btn J_ping timer","sx":586,"sy":256,"px":582,"py":152,"time":1695201598058},{"eid":"click","did":"","cn":"","sx":304,"sy":659,"px":300,"py":555,"time":1695201613573},{"eid":"click","did":"","cn":"acc-input mobile J_ping","sx":284,"sy":190,"px":280,"py":86,"time":1695208898504},{"eid":"click","did":"","cn":"policy_tip-checkbox","sx":32,"sy":596,"px":28,"py":492,"time":1695208903034},{"eid":"click","did":"","cn":"page","sx":364,"sy":130,"px":360,"py":26,"time":1695208910828},{"eid":"click","did":"","cn":"getMsg-btn text-btn J_ping timer","sx":562,"sy":254,"px":558,"py":150,"time":1695208910856}]}foapmqy5ck2e"
 
-e = 99992
+e = 99992 
 
-n ="23130303037303236454145424647333930364347354831453137323142373636383333363233303033333234454636454541433246344546333730344346493333373831483530334233303035313030303"
+n ="23130303037303236454145424647333930364347354831453137323142373636383333363233303033333234454636454541433246344546333730344346493333373831483530334233303035313030303" （固定）
 
 ```
 
