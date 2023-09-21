@@ -67,3 +67,29 @@ T.a.interfaceName = "fp",
 
 
 #### 生成st参数给第三步
+
+
+
+请求参数
+
+```
+1. si:
+    
+    WO-_xgABAAAE90GXWUkAMI2cq6P4aWCX6wN6BTUJghrMEBjEf5AfE3ZgyfDPWTDXKUcZ2cZFmef5zGiz5wq9YAAAAAA
+    
+2. ct:
+    
+    {"data":"g76DHnIgKP_LFvPDWo4yuXC_gOhuhQ7Sz0Ctmm-UpSwXU2uZPwHtiyTp7CyRPB9QYn2f9R64bo8E\n5TWlPry-KH3CDxamopGRSBu39N8IucckzCROMLzKrJPoIoEkaqZGS3DSZCKqHxaJlpM5XZmykYnb\naZ9aRw_mDsx-ej5T8LR4RI8qcK7s9HGcc_FCnJg5RpGgqSl15w0Fm96CC0E3doFBBQPQwTddR9MA\nNyMC3bScVyMS0_XekIDPj6BagTeWKeuFArOfNiIxTMnPXPTCbZMmIaD58akLVfB4T-zaeJioihd5\nTZjaaXTC0zcV32iexNAqFAZ9z0znyh1yrivqXdALzdjl7Qpzngcs2r9nggtxqlWezvyubMC0mwxD\nolRJF2GKDzvyKkfYLhv1694cuzC8JaYGg37DJnMjZ5sn-i6BpI6Rb7IlRF-5QxjItkdTnM4Q0JYs\nQ3wUV3Y5A-xfuldUFNAcoyNuXyIg0r6fl1UdBS_KmbVQ_PvdKlcbHLb77d4beJ4TeNiisvsZh8Fm\nT-UwZfFpETxhhdH4_oTbgblfmfH4gEjXxDIAF10CZvv5DtZb1JrgUTM_kDR51tgHzyRSJnPU4Iut\nbdjftWTBwh4CfD5NmNACpSPSscUk71lPiTDWHiIKofJ_JY2Em8RCRBi23ECy1pndQkgSL2Nj2jKY\nSkbywAor1KafsoIydvs0uAOYC3VQ9n-aaZMPLYacx3sY3t9ggXutg_S3HHNj6Ye0kUcn--p0Zg8x\nD3NtlrYITf-DLlaxMQAzYKDXnwayPy3h3I6huF6zz65xkDQ_7xMP4bGlrPMbWjveE8ll4fuxKFMo\nj4iCtHURELr95j6I4_4VTYTZKIGdYfbKsdAPFyGNj06UCUXTnu18I3jCR3kwzF4Gm-TQjI_ner_q\nuRjuqH1cxuuUdjp0Vjwuv3XE0rzTMH94zuiPannhtOEKapPBbJA3-TNx6-R68suP3mg6EKhypcd5\nGmjKv6hp6WD_TxKVA4OuQJcYTthVRv2q9jv_nLmMs0o2tyDHU0yf7dJMf6Z_RBFaBZs67XdFm4dQ\nyyhlYrcgYwvbeC2QCQyuNfhgpxjWc2OO1nAl_1TLPa-gHSYJMQ5nAdDs6HulwGHg_HcCZaSUePUl\nbF18mAvXxXbU7AIcxEMGixzYL4AVbWruck8u75WXhQsGmi7fm_D0M9Yz5xd4cCZDkutEGvRXU6un\ntRrjWp6oaQGVkTtftlLz5A==","version":2}
+    
+3. version:
+    
+    2
+    
+4. lang:
+    
+    1
+    
+5. client:
+    
+    m
+```

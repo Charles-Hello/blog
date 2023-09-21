@@ -169,7 +169,7 @@ mod = 固定 解决
 username_phone = 手机号 解决
 st = 会变 （时间戳） s_token 解决
 risk_jd[eid] = 会变 可为空 解决
-risk_jd[token]  = 会变  
+risk_jd[token]  = 会变  解决 
 risk_jd[jstub]  = 会变  解决
 risk_jd[fpstep]  = 会变  nb+时间戳 解决
 risk_jd[fp] = 上面的fp参数 解决
@@ -177,4 +177,45 @@ risk_jd[fp] = 上面的fp参数 解决
 ```
 
 
-#### 返回 jcap_sid == si给第二步
+#### 返回 jcap_sid == si 给第二步 
+
+WO-_xgABAAAE90GXWUkAMI2cq6P4aWCX6wN6BTUJghrMEBjEf5AfE3ZgyfDPWTDXKUcZ2cZFmef5zGiz5wq9YAAAAAA
+
+
+
+请求参数
+
+```
+1. st:
+    
+    ay1kk1bz
+    
+2. mod:
+    
+    smslogin
+    
+3. username_phone:
+    
+    15695302611
+    
+4. risk_jd[eid]:
+    
+5. risk_jd[fp]:
+    
+    09a3f0e2fda6f1fd5809c369471fbd51
+    
+6. risk_jd[sdkToken]:
+    
+7. risk_jd[token]:
+    
+    YLNNKH6TN3KRN5CJCSJILYM6J24R2XC72DLJ2Q6HUAY4R543WKZR2K4L45DXCDRMD7KVRZFT6AHMM
+    
+8. risk_jd[jstub]:
+    
+    6VF6LZIJ2JN7P32DJJAYJISLKVR22KLXOVKDUNO7BKMZPGJR7PR7TAFOUCBKF3SOP2PIPEDXGGF4EWTZQTBJ32ZM6UZN4QAWJSBMHAI
+    
+9. risk_jd[fpstep]:
+    
+    nb1695304763797
+
+```
