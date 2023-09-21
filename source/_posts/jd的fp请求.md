@@ -8,11 +8,11 @@ index_img: ../banner_images/banne_photo83.png
 ```javascript
 function Q(t, e, n) {
 	"string" != typeof t && (t = JSON.stringify(t));
-	var r = n.sessionId  由login获取
+	var r = n.sessionId  由jacapsid获取
 	  , o = n.language   1
 	  , i = n.tdat_code   99992
 	  , a = n.host "//jcap.m.jd.com"
-	  , s = n.st  
+	  , s = n.st   
 	  , c = n.devcInfo
 	  , u = n.urlMap
 	  , f = n.platformOS
