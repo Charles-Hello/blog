@@ -66,7 +66,33 @@ curl 'https://plogin.m.jd.com/cgi-bin/mm/new_login_entrance?lang=chs&appid=300&r
 ```
 
 
-
+```
+jd_shadow__ = function() {
+    try {
+        var t = JDDSecCryptoJS
+          , u = [];
+        u.push(_CurrentPageUrl);
+        var v = t.lib.UUID.generateUuid();
+        u.push(v);
+        var x = (new Date).getTime();
+        u.push(x);
+        var w = t.SHA1(u.join("")).toString().toUpperCase();
+        u = [];
+        u.push("JD3");
+        u.push(w);
+        var A = (new JDDMAC).mac(u.join(""));
+        u.push(A);
+        var y = t.enc.Hex.parse("30313233343536373839616263646566")
+          , n = t.enc.Hex.parse("4c5751554935255042304e6458323365")
+          , f = u.join("");
+        return t.AES.encrypt(t.enc.Utf8.parse(f), n, {
+            mode: t.mode.CBC,
+            padding: t.pad.Pkcs7,
+            iv: y
+        }).ciphertext.toString(t.enc.Base32)
+    } catch (e) {}
+}()
+```
 
 ```
 jstub参数生成位置 ：103个字符
