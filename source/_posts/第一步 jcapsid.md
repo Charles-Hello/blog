@@ -173,4 +173,8 @@ risk_jd[token]  = 会变
 risk_jd[jstub]  = 会变  解决
 risk_jd[fpstep]  = 会变  nb+时间戳 解决
 risk_jd[fp] = 上面的fp参数 解决
+
 ```
+
+
+#### 返回 jcap_sid == si给第二步
