@@ -6,6 +6,17 @@ index_img: ../banner_images/banne_photo83.png
 ---
 
 ```javascript
+
+
+function q(t, e) {
+                for (var n = t.toString().length; n < e; )
+                    t = "0" + t,
+                    n++;
+                return t
+}
+
+
+
 {
 h = d.dispatch,
 g = d.commit,
