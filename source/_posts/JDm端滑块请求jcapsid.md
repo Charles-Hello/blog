@@ -87,6 +87,13 @@ mac: function(v) {
             return (x ^ -1) >>> 0
 }
 
+
+parse: function(h) {
+            for (var k = h.length, a = [], b = 0; b < k; b++)
+                a[b >>> 2] |= (h.charCodeAt(b) & 255) << 24 - b % 4 * 8;
+            return new A.init(a,k)
+}
+
 jd_shadow__ = function() {
     try {
         var t = JDDSecCryptoJS
@@ -130,8 +137,8 @@ mod = 固定
 username_phone = 手机号
 st = 会变 （时间戳）
 risk_jd[eid] = 会变 可为空
-risk_jd[token]  = 会变
-risk_jd[jstub]  = 会变
+risk_jd[token]  = 会变  
+risk_jd[jstub]  = 会变  解决
 risk_jd[fpstep]  = 会变  nb+时间戳
 risk_jd[fp] = 上面的fp参数
 ```
