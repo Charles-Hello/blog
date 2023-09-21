@@ -313,3 +313,6 @@ getSensorInfo: function(e, t) {
 
 第二个check 则请求验证
 ```
+```
+
+```
