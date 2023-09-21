@@ -321,7 +321,7 @@ getSensorInfo: function(e, t) {
 
 ```javascript
 
-只有t为空
+t = ""
 
 touchList =[
     {
@@ -356,7 +356,7 @@ touchList =[
     }
 ]
 
-g ="{"account":"15695302611","ccode":"86","capfp":{},"cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}"
+g ="{"account":"15695302611","ccode":"86","capfp":{},"cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}" 与第二次一样
 
 var r = n.sessionId 
 	  , o = n.language
@@ -385,5 +385,73 @@ var r = n.sessionId
 
 
 第二次check
-```java
+```javascript
+
+
+t = 坐标轨迹
+"%7B%22ht%22:222,%22wt%22:359,%22bw%22:73,%22sw%22:359,%22mw%22:73,%22list%22:%5B%5B0,0,0%5D,%5B1,0,111%5D,%5B2,0,8%5D,%5B2,0,4%5D,%5B3,0,10%5D,%5B4,0,4%5D,%5B4,0,3%5D,%5B5,0,4%5D,%5B6,0,3%5D,%5B6,0,3%5D,%5B7,0,6%5D,%5B8,0,1%5D,%5B8,0,3%5D,%5B9,0,1%5D,%5B10,0,3%5D,%5B10,0,1%5D,%5B11,0,3%5D,%5B12,0,2%5D,%5B12,0,2%5D,%5B13,0,0%5D,%5B14,0,2%5D,%5B14,0,4%5D,%5B15,0,2%5D,%5B16,0,0%5D,%5B16,0,3%5D,%5B17,0,1%5D,%5B18,0,2%5D,%5B18,0,3%5D,%5B19,0,5%5D,%5B20,0,1%5D,%5B20,0,1%5D,%5B21,0,4%5D,%5B22,0,3%5D,%5B22,0,7%5D,%5B23,0,6%5D,%5B24,0,4%5D,%5B24,0,7%5D,%5B25,0,6%5D,%5B25,1,5%5D,%5B26,1,2%5D,%5B26,1,13%5D,%5B27,1,5%5D,%5B28,1,4%5D,%5B28,1,6%5D,%5B29,1,5%5D,%5B30,1,5%5D,%5B30,1,11%5D,%5B31,1,9%5D,%5B32,1,5%5D,%5B32,1,8%5D,%5B33,1,5%5D,%5B34,1,13%5D,%5B34,1,12%5D,%5B35,1,9%5D,%5B36,1,24%5D,%5B36,1,12%5D,%5B37,1,17%5D,%5B38,1,16%5D,%5B38,1,4%5D,%5B39,1,7%5D,%5B40,1,5%5D,%5B40,1,4%5D,%5B41,1,4%5D,%5B42,1,8%5D,%5B42,1,3%5D,%5B43,1,7%5D,%5B44,1,2%5D,%5B44,1,7%5D,%5B45,1,5%5D,%5B46,1,18%5D%5D%7D"
+touchList
+[
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "policy_tip-checkbox",
+        "sx": 37,
+        "sy": 599,
+        "px": 33,
+        "py": 495,
+        "time": 1695305782314
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "input-container",
+        "sx": 215,
+        "sy": 207,
+        "px": 211,
+        "py": 103,
+        "time": 1695305783282
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "acc-input mobile J_ping",
+        "sx": 212,
+        "sy": 191,
+        "px": 208,
+        "py": 87,
+        "time": 1695305783523
+    },
+    {
+        "eid": "click",
+        "did": "authcode",
+        "cn": "acc-input J_ping authcode",
+        "sx": 268,
+        "sy": 256,
+        "px": 264,
+        "py": 152,
+        "time": 1695305793773
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "getMsg-btn text-btn J_ping timer",
+        "sx": 389,
+        "sy": 260,
+        "px": 385,
+        "py": 156,
+        "time": 1695305796825
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "",
+        "sx": 152,
+        "sy": 650,
+        "px": 148,
+        "py": 546,
+        "time": 1695305843035
+    }
+]
+
 ```
