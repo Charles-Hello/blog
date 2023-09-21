@@ -261,7 +261,7 @@ t 花费时间 一开始为1-4s左右，后来接近抖动的时候赋值30-350m
 
 g  = "{"account":"15015344889","ccode":"86","capfp":"m14jVxG3CClLHe5yUTpVWEeiwjCIAet-ObrCbyZjmQW9F3dPWaxZgQBcf8eaHlgocYg_PNVSnnKkUhRwXux87w==","cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}"
 
-si的值 "Xg0aRAABAAAFmK5kzRwAMKVa_Y9J2O3Ykj5TQDFqCdp-zeR8FRzerqJXwRqY8Wm-In2e_ikG492CF27dIzauDgAAAAA" 
+si的值 "Xg0aRAABAAAFmK5kzRwAMKVa_Y9J2O3Ykj5TQDFqCdp-zeR8FRzerqJXwRqY8Wm-In2e_ikG492CF27dIzauDgAAAAA"  由https://jcap.m.jd.com/cgi-bin/api/fp响应中得到  
 
 tk = "{"data":"SrI7IVcFlDJKHcJF9S2uIY-····" 解决
 
