@@ -7,7 +7,7 @@ index_img: ../banner_images/banne_photo82.png
 
 下载https://github.com/Charles-Hello/blog.git安装包，然后导入根目录，打开git文件夹，配置git
 选择第三个打开文件夹，等待即可
-![](Screenshot_2023-08-31-22-14-45-976_md.obsidian.jpg)
+![](../images/Screenshot_2023-08-31-22-14-45-976_md.obsidian.jpg)
 
 然后配置git插件的**username**为Charles-Hello。密码是微信的收藏的**token**。即可！！
 

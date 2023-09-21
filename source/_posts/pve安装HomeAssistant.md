@@ -7,9 +7,9 @@ index_img: ../banner_images/banne_photo38.png
 
 [Installation - Home Assistant (home-assistant.io)](https://www.home-assistant.io/installation/)
 打开HomeAssistant官方，点击
-![](Pasted%20image%2020230829221734.png)
+![](../images/Pasted%20image%2020230829221734.png)
 
-![](Pasted%20image%2020230829221754.png)
+![](../images/Pasted%20image%2020230829221754.png)
 下载kvm，然后ssh连接pve终端，导入进去
 
 接下来看这个教程
@@ -23,5 +23,5 @@ index_img: ../banner_images/banne_photo38.png
 
 
 还是建议搭建samba
-![](Pasted%20image%2020230829231749.png)
+![](../images/Pasted%20image%2020230829231749.png)
 忘记密码的可以删除这个文件夹，重启ha再注册
