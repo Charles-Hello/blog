@@ -9,7 +9,7 @@ index_img: ../banner_images/banne_photo86.png
 ![](../images/Pasted%20image%2020230920172406.png)
 
 
-![](Pasted%20image%2020230921204808.png)
+![](../images/Pasted%20image%2020230921204808.png)
 
 
 `````` javascript
