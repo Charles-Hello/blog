@@ -122,6 +122,34 @@ jd_shadow__ = function() {
 }()
 ```
 
+
+```
+token参数生成是请求
+curl 'https://payrisk.jd.com/m.html' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: mba_muid=1695299601792779320572; __jd_ref_cls=MLoginRegister_SMSReceiveCode' \
+  -H 'DNT: 1' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: https://plogin.m.jd.com/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31' \
+  -H 'sec-ch-ua: "Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed
+
+响应数据为：var jd_risk_token_id = 'PP3UPD2FJQD77FCZGVGHJMUHMTHR77WWPY7GKN4AEA3472SKA4HFIE75PFQ53DLUGRYRSZP65ZHKQ';
+
+```
+
+
+
+
 ```
 jstub参数生成位置 ：103个字符
 ```
@@ -133,12 +161,16 @@ data = { 'st': '7wq6lt1n', 'mod': 'smslogin', 'username_phone': '13411111111', '
 
 
 
-mod = 固定
-username_phone = 手机号
-st = 会变 （时间戳）
-risk_jd[eid] = 会变 可为空
+
+
+
+
+mod = 固定 解决
+username_phone = 手机号 解决
+st = 会变 （时间戳） s_token 解决
+risk_jd[eid] = 会变 可为空 解决
 risk_jd[token]  = 会变  
 risk_jd[jstub]  = 会变  解决
-risk_jd[fpstep]  = 会变  nb+时间戳
-risk_jd[fp] = 上面的fp参数
+risk_jd[fpstep]  = 会变  nb+时间戳 解决
+risk_jd[fp] = 上面的fp参数 解决
 ```
