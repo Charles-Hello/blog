@@ -16,8 +16,12 @@ function q(t, e) {
                     n++;
                 return t
 }
+
+
+
+
 r = n.sessionId ="fIS8JQABAAAIPtAi5FkAMHu---j78gy-GB0Hi1vlU50IYL3V0VefS5LFuK1KAf1wE0S8hgdj3af0wjXtsEplgAAAAAA"(由  
-https://plogin.m.jd.com/cgi-bin/mm/jcapsid的post的到)
+https://plogin.m.jd.com/cgi-bin/mm/jcapsid的post的得到)
 o = n.language =1 （固定）
 i = n.tdat_code =99992 （固定）
 a = n.host ="//jcap.m.jd.com" （固定）
