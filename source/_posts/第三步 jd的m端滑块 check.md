@@ -12,7 +12,7 @@ index_img: ../banner_images/banne_photo86.png
 ![](../images/Pasted%20image%2020230921204808.png)
 
 
-`````` javascript
+``` javascript
 
 function q(t, e) {
                 for (var n = t.toString().length; n < e; )
@@ -312,7 +312,78 @@ getSensorInfo: function(e, t) {
 流程 发送第一个check  拿到对应的图片
 
 第二个check 则请求验证
-```
+
 ```
 
+
+分析第一次check
+
+
+```javascript
+
+只有t为空
+
+touchList =[
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "acc-input mobile J_ping",
+        "sx": 252,
+        "sy": 198,
+        "px": 248,
+        "py": 94,
+        "time": 1695304768930
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "policy_tip-checkbox",
+        "sx": 35,
+        "sy": 601,
+        "px": 31,
+        "py": 497,
+        "time": 1695304773658
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "getMsg-btn text-btn J_ping timer",
+        "sx": 370,
+        "sy": 261,
+        "px": 366,
+        "py": 157,
+        "time": 1695304777061
+    }
+]
+
+g ="{"account":"15695302611","ccode":"86","capfp":{},"cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}"
+
+var r = n.sessionId 
+	  , o = n.language
+	  , i = n.tdat_code
+	  , a = n.host
+	  , s = n.st 
+	  , c = n.devcInfo
+	  , u = n.urlMap
+	  , f = n.platformOS
+	  , l = n.tdat_ctx;
+	t = encodeURI(t);
+	var d = Date.parse(new Date + "")
+	  , p = d % 41
+	  , h = {
+		touchList: Object(T.d)("touche_message")
+	}
+	  , g = G.getSensorInfo(c, e)  // e =""
+	  , v = {
+		si: r, 
+		lang: o,
+		tk: H(d + q(r.length, 4) + r + q(s.length, 4) + s + q(t.length, 6) + t + JSON.stringify(h) + K(p), i, l),
+		ct: H(K(d % 19) + q(r.length, 4) + r + g + d, i, l),
+		version: 2,
+		client: f
+```
+
+
+第二次check
+```java
 ```
