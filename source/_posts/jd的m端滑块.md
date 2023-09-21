@@ -138,6 +138,9 @@ function K(t) {
 return n
 }
 
+
+t = "{"ht":260,"wt":421,"bw":86,"sw":421,"mw":86,"list":[[0,0,0]····················[144,-5,383]]}"（传的list不固定，得从py的fastapi那里获取，其他均固定）
+
 tk = H(d + q(r.length, 4) + r + q(s.length, 4) + s + q(t.length, 6) + t + JSON.stringify(h) + K(p), i, l)
 
 
