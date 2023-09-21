@@ -47,83 +47,103 @@ h = {
         "eid": "click",
         "did": "",
         "cn": "acc-input mobile J_ping",
-        "sx": 289,
-        "sy": 196,
-        "px": 285,
-        "py": 92,
-        "time": 1695201591043
+        "sx": 146,
+        "sy": 186,
+        "px": 142,
+        "py": 82,
+        "time": 1695258916201
     },
     {
         "eid": "click",
         "did": "",
         "cn": "policy_tip-checkbox",
-        "sx": 53,
+        "sx": 37,
         "sy": 596,
-        "px": 49,
+        "px": 33,
         "py": 492,
-        "time": 1695201595164
+        "time": 1695258922162
     },
     {
         "eid": "click",
         "did": "",
         "cn": "getMsg-btn text-btn J_ping timer",
-        "sx": 586,
-        "sy": 256,
-        "px": 582,
-        "py": 152,
-        "time": 1695201598058
+        "sx": 546,
+        "sy": 267,
+        "px": 542,
+        "py": 163,
+        "time": 1695258923367
     },
     {
         "eid": "click",
         "did": "",
         "cn": "",
-        "sx": 304,
-        "sy": 659,
-        "px": 300,
-        "py": 555,
-        "time": 1695201613573
+        "sx": 322,
+        "sy": 665,
+        "px": 318,
+        "py": 561,
+        "time": 1695258933085
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "",
+        "sx": 271,
+        "sy": 662,
+        "px": 267,
+        "py": 558,
+        "time": 1695259055128
     },
     {
         "eid": "click",
         "did": "",
         "cn": "acc-input mobile J_ping",
-        "sx": 284,
-        "sy": 190,
-        "px": 280,
-        "py": 86,
-        "time": 1695208898504
+        "sx": 254,
+        "sy": 188,
+        "px": 250,
+        "py": 84,
+        "time": 1695260364384
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "acc-input mobile J_ping",
+        "sx": 171,
+        "sy": 187,
+        "px": 167,
+        "py": 83,
+        "time": 1695260369505
     },
     {
         "eid": "click",
         "did": "",
         "cn": "policy_tip-checkbox",
-        "sx": 32,
-        "sy": 596,
-        "px": 28,
-        "py": 492,
-        "time": 1695208903034
-    },
-    {
-        "eid": "click",
-        "did": "",
-        "cn": "page",
-        "sx": 364,
-        "sy": 130,
-        "px": 360,
-        "py": 26,
-        "time": 1695208910828
+        "sx": 36,
+        "sy": 600,
+        "px": 32,
+        "py": 496,
+        "time": 1695260371452
     },
     {
         "eid": "click",
         "did": "",
         "cn": "getMsg-btn text-btn J_ping timer",
-        "sx": 562,
-        "sy": 254,
-        "px": 558,
-        "py": 150,
-        "time": 1695208910856
+        "sx": 538,
+        "sy": 262,
+        "px": 534,
+        "py": 158,
+        "time": 1695260372637
+    },
+    {
+        "eid": "click",
+        "did": "",
+        "cn": "",
+        "sx": 190,
+        "sy": 661,
+        "px": 186,
+        "py": 557,
+        "time": 1695260446609
     }
-]（随机）
+]（10个，sx,sy,px,py 上下正负10，time为滑块花费的时间然后取10次）
 
 d = 1695208930000 （时间戳）
 p = d % 41 
