@@ -97,8 +97,5 @@ T.a.interfaceName = "fp",
 
 响应 
 ```
-
-
 {"st":"AxuG0iKCCEIEgaaY","code":0,"msg":"","fp":"n8wUAxWalvZwEAiWGNO7mIqE1y3cK7ybfAYaJWxyzCjxHDJ2KTuyZmGByqbjOUsCnGO6kDxD7khND3F0W4Rktw==","tp":9,"img":""}
-
 ```

@@ -219,3 +219,10 @@ WO-_xgABAAAE90GXWUkAMI2cq6P4aWCX6wN6BTUJghrMEBjEf5AfE3ZgyfDPWTDXKUcZ2cZFmef5zGiz
     nb1695304763797
 
 ```
+
+
+响应
+```
+{"err_code":0,"err_msg":"","jcap_sid":"YeAjewABAAAFKjmjjLsAMPM4ujHdGEOja0XkbxGeNCusy2LK32yJRvNH5LJ9F2KefYpB2BkdJPv-vldAlDdW4gAAAAA"}
+
+```
