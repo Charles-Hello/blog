@@ -15,5 +15,5 @@ st = 会变 （时间戳）
 risk_jd[eid] = 会变
 risk_jd[token]  = 会变
 risk_jd[jstub]  = 会变
-risk_jd[fpstep]  = 会变
+risk_jd[fpstep]  = 会变  nb+时间戳
 ```
