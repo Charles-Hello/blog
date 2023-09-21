@@ -66,16 +66,37 @@ curl 'https://plogin.m.jd.com/cgi-bin/mm/new_login_entrance?lang=chs&appid=300&r
 ```
 
 
-```
+```javascript
+
+generateUuid: function() {
+            for (var h = "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".split(""), k = 0, a = h.length; k < a; k++)
+                switch (h[k]) {
+                case "x":
+                    h[k] = t.floor(16 * t.random()).toString(16);
+                    break;
+                case "y":
+                    h[k] = (t.floor(4 * t.random()) + 8).toString(16)
+                }
+            return h.join("")
+}
+
+
+mac: function(v) {
+            for (var x = -1, w = 0, A = v.length; w < A; w++)
+                x = x >>> 8 ^ t[(x ^ v.charCodeAt(w)) & 255];
+            return (x ^ -1) >>> 0
+}
+
 jd_shadow__ = function() {
     try {
         var t = JDDSecCryptoJS
           , u = [];
-        u.push(_CurrentPageUrl);
-        var v = t.lib.UUID.generateUuid();
+        u.push("plogin.m.jd.com/login/login");
+        var v = t.lib.UUID.generateUuid(); //a2accc18-4cec-4b8b-a5e3-e57f937095341695298313786
         u.push(v);
-        var x = (new Date).getTime();
+        var x = (new Date).getTime();  //1695298281088
         u.push(x);
+        //u.join("") = "plogin.m.jd.com/login/logina2accc18-4cec-4b8b-a5e3-e57f937095341695298313786"
         var w = t.SHA1(u.join("")).toString().toUpperCase();
         u = [];
         u.push("JD3");
