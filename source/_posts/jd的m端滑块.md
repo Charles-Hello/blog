@@ -30,7 +30,7 @@ o = n.language =1 （固定） 解决
 i = n.tdat_code =99992 （固定） 解决
 a = n.host ="//jcap.m.jd.com" （固定） 解决
 s = n.st ="taJvP8ua60xCxdby" (会变)  
-c = n.devcInfo ="{"account":"15015344889","ccode":"86","capfp":"xpo7vzpVL5aRVVkbpmzqh117VZR_o7SNJgiJE24rprnSGM5XwlDKoQCe9EvBac2ym_S13lLjJgRpiIQitr6HRw==","cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}" (只变account)
+c = n.devcInfo ="{"account":"15015344889","ccode":"86","capfp":"xpo7vzpVL5aRVVkbpmzqh117VZR_o7SNJgiJE24rprnSGM5XwlDKoQCe9EvBac2ym_S13lLjJgRpiIQitr6HRw==","cvs":"a04d95f1d97489b23cce20bebd6d6d6b","wgl":"0ef36cfe7a17521389b08af14c0554d0","pr":"1.5","cd":"24","fv":"","fts":"Arial,Calibri,Cambria,Consolas,Courier,CourierNew,Georgia,Helvetica,Impact,LucidaConsole,LucidaSansUnicode,MSGothic,MSPGothic,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Symbol,Candara,Constantia,Corbel,Ebrima,FangSong,Gabriola,MicrosoftYaHei,MicrosoftYiBaiti,MingLiUExtB,PMingLiUExtB,SimHei,SimSun,SimSunExtB","scr":"1707x960,1707x912","cpu":"8","pt":"Win32","tzo":"Asia/Shanghai","lan":"zh-CN","wvr":"Google Inc. (NVIDIA)~ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 Direct3D11 vs_5_0 ps_5_0, D3D11)","wdr":false,"mem":8,"sdv":"2.0","lns":"zh-CN,en,en-GB,en-US","tsp":"0"}" (只变account) 解决
 u = n.urlMap = {
     "report": "https://jcapmonitor.m.jd.com/web_jcap_report",
     "img": "https://h5.360buyimg.com/jcap/pc/img/",
@@ -154,8 +154,8 @@ h = {
     }
 ]（10个，sx,sy,px,py 上下正负10，time为滑块花费的时间然后取10次）
 
-d = 1695208930000 （时间戳最后的时间加几秒）
-p = d % 41 
+d = 1695208930000 （时间戳最后的时间加几秒）  解决
+p = d % 41  解决
 
 
 
@@ -287,7 +287,7 @@ getSensorInfo: function(e, t) {
 	  , o = n.language
 	  , i = n.tdat_code
 	  , a = n.host
-	  , s = n.st
+	  , s = n.st 
 	  , c = n.devcInfo
 	  , u = n.urlMap
 	  , f = n.platformOS
