@@ -103,11 +103,13 @@ jd_shadow__ = function() {
 	var x = (new Date).getTime();  //1695298281088
 	u.push(x);
 	//u.join("") = "plogin.m.jd.com/login/logina2accc18-4cec-4b8b-a5e3-e57f937095341695298313786"
-	var w = t.SHA1(u.join("")).toString().toUpperCase();
+
+	var w = t.SHA1(u.join("")).toString().toUpperCase(); //2D28BD01DBB26C4FE65CB4909239386B345A93CC
 	u = [];
-	u.push("JD3");
+	u.push("JD3"); 
 	u.push(w);
-	var A = (new JDDMAC).mac(u.join(""));
+	//u.join("") = "JD32D28BD01DBB26C4FE65CB4909239386B345A93CC"
+	var A = (new JDDMAC).mac(u.join("")); //187888916
 	u.push(A);
 	var y = t.enc.Hex.parse("30313233343536373839616263646566")
 	  , n = t.enc.Hex.parse("4c5751554935255042304e6458323365")
