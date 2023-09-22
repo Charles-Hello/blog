@@ -77,7 +77,7 @@ generateUuid: function() {
                 case "y":
                     h[k] = (t.floor(4 * t.random()) + 8).toString(16)
                 }
-            return h.join("")
+	return h.join("")
 }
 
 
@@ -95,31 +95,28 @@ parse: function(h) {
 }
 
 jd_shadow__ = function() {
-    try {
-        var t = JDDSecCryptoJS
-          , u = [];
-        u.push("plogin.m.jd.com/login/login");
-        var v = t.lib.UUID.generateUuid(); //a2accc18-4cec-4b8b-a5e3-e57f937095341695298313786
-        u.push(v);
-        var x = (new Date).getTime();  //1695298281088
-        u.push(x);
-        //u.join("") = "plogin.m.jd.com/login/logina2accc18-4cec-4b8b-a5e3-e57f937095341695298313786"
-        var w = t.SHA1(u.join("")).toString().toUpperCase();
-        u = [];
-        u.push("JD3");
-        u.push(w);
-        var A = (new JDDMAC).mac(u.join(""));
-        u.push(A);
-        var y = t.enc.Hex.parse("30313233343536373839616263646566")
-          , n = t.enc.Hex.parse("4c5751554935255042304e6458323365")
-          , f = u.join("");
-        return t.AES.encrypt(t.enc.Utf8.parse(f), n, {
-            mode: t.mode.CBC,
-            padding: t.pad.Pkcs7,
-            iv: y
-        }).ciphertext.toString(t.enc.Base32)
-    } catch (e) {}
-}()
+	var t = JDDSecCryptoJS
+	  , u = [];
+	u.push("plogin.m.jd.com/login/login");
+	var v = t.lib.UUID.generateUuid(); //a2accc18-4cec-4b8b-a5e3-e57f937095341695298313786
+	u.push(v);
+	var x = (new Date).getTime();  //1695298281088
+	u.push(x);
+	//u.join("") = "plogin.m.jd.com/login/logina2accc18-4cec-4b8b-a5e3-e57f937095341695298313786"
+	var w = t.SHA1(u.join("")).toString().toUpperCase();
+	u = [];
+	u.push("JD3");
+	u.push(w);
+	var A = (new JDDMAC).mac(u.join(""));
+	u.push(A);
+	var y = t.enc.Hex.parse("30313233343536373839616263646566")
+	  , n = t.enc.Hex.parse("4c5751554935255042304e6458323365")
+	  , f = u.join("");
+	return t.AES.encrypt(t.enc.Utf8.parse(f), n, {
+		mode: t.mode.CBC,
+		padding: t.pad.Pkcs7,
+		iv: y
+	}).ciphertext.toString(t.enc.Base32)
 ```
 
 
