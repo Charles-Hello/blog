@@ -112,13 +112,29 @@ jd_shadow__ = function() {
 	var A = (new JDDMAC).mac(u.join("")); //187888916
 	u.push(A);
 	var y = t.enc.Hex.parse("30313233343536373839616263646566")
+	//y = [
+    808530483,
+    875902519,
+    943284578,
+    1667523942
+]
 	  , n = t.enc.Hex.parse("4c5751554935255042304e6458323365")
-	  , f = u.join("");
+	//n = [
+    1280790869,
+    1228219728,
+    1110462052,
+    1479684965
+]
+	  , f = u.join(""); //"JD32D28BD01DBB26C4FE65CB4909239386B345A93CC187888916"
 	return t.AES.encrypt(t.enc.Utf8.parse(f), n, {
 		mode: t.mode.CBC,
 		padding: t.pad.Pkcs7,
 		iv: y
 	}).ciphertext.toString(t.enc.Base32)
+	//t.enc.Base32 = {
+    //"_map": "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567"
+     //}
+	
 ```
 
 
