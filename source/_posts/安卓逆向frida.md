@@ -53,3 +53,7 @@ adb shell su -c "kill -9 20607"
 
 adb shell su -c "/data/local/tmp/frida-server -l 0.0.0.0:1234"  
 frida -H 127.0.0.1:1234 -l jdclass.js -f com.jingdong.app.mall
+
+
+
+**frida-ps -Ua** 打印usb连接设备正在运行的进程（进程ID，进程名，包名）
